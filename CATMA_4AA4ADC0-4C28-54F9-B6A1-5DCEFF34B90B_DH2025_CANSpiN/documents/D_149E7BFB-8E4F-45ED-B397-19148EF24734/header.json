@@ -1,0 +1,22 @@
+{
+  "gitContentInfoSet": {
+    "author": "Gil y Carrasco, Enrique",
+    "description": "",
+    "publisher": "",
+    "title": "El Señor de Bembibre"
+  },
+  "gitIndexInfoSet": {
+    "locale": "es",
+    "unseparableCharacterSequences": [],
+    "userDefinedSeparatingCharacters": []
+  },
+  "gitTechInfoSet": {
+    "charset": "UTF-8",
+    "checksum": 633148415,
+    "fileName": "CANSpiN-spa-19-001.xml",
+    "fileOSType": "UNIX",
+    "fileType": "TEXT",
+    "mimeType": "text/plain",
+    "responsibleUser": "NKellner"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "gitContentInfoSet": {
+    "author": "",
+    "description": "",
+    "publisher": "",
+    "title": "CANSpiN-spa-19-008"
+  },
+  "gitIndexInfoSet": {
+    "locale": "es",
+    "unseparableCharacterSequences": [],
+    "userDefinedSeparatingCharacters": []
+  },
+  "gitTechInfoSet": {
+    "charset": "UTF-8",
+    "checksum": 3095160453,
+    "fileName": "CANSpiN-spa-19-007.xml",
+    "fileOSType": "UNIX",
+    "fileType": "TEXT",
+    "mimeType": "text/plain",
+    "responsibleUser": "NKellner"
+  }
+}

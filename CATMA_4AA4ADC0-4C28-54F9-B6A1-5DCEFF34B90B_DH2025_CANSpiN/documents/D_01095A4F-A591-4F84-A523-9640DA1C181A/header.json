@@ -1,0 +1,22 @@
+{
+  "gitContentInfoSet": {
+    "author": "Juana Manuela Gorriti",
+    "description": "",
+    "publisher": "",
+    "title": "El pozo del Yocci"
+  },
+  "gitIndexInfoSet": {
+    "locale": "es",
+    "unseparableCharacterSequences": [],
+    "userDefinedSeparatingCharacters": []
+  },
+  "gitTechInfoSet": {
+    "charset": "UTF-8",
+    "checksum": 375571458,
+    "fileName": "CANSpiN-lat-19-041.xml",
+    "fileOSType": "UNIX",
+    "fileType": "TEXT",
+    "mimeType": "text/plain",
+    "responsibleUser": "NKellner"
+  }
+}

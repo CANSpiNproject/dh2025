@@ -1,0 +1,5194 @@
+[
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": "collections/C_73B4B7BA-A0F0-4ECF-ADF2-C565DF8F5A28/annotations/CATMA_C4304166-A6BC-4A36-A130-1282723A9FFF",
+    "body": {
+      "@context": {
+        "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_FCBC2620-4967-4A67-92BE-58BEE67BE3E5/CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6",
+        "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_FCBC2620-4967-4A67-92BE-58BEE67BE3E5/CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF",
+        "tag": "https://www.catma.de/tag",
+        "tagset": "https://www.catma.de/tagset"
+      },
+      "tagset": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C",
+      "tag": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_FCBC2620-4967-4A67-92BE-58BEE67BE3E5",
+      "properties": {
+        "system": {
+          "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": [
+            "2024-10-28T11:09:21.777+0100"
+          ],
+          "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": [
+            "NKellner"
+          ]
+        },
+        "user": {}
+      },
+      "type": "Dataset"
+    },
+    "target": {
+      "items": [
+        {
+          "source": "D_023EE3D5-8926-482C-A306-AC846BBAA528",
+          "selector": {
+            "start": 9535,
+            "end": 9537,
+            "type": "TextPositionSelector"
+          }
+        }
+      ],
+      "type": "List"
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": "collections/C_73B4B7BA-A0F0-4ECF-ADF2-C565DF8F5A28/annotations/CATMA_A55E6EBF-778E-40CA-9658-F380F6F4A010",
+    "body": {
+      "@context": {
+        "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_C6B0E6E4-8224-4455-9B6B-936B1B0364A7/CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6",
+        "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_C6B0E6E4-8224-4455-9B6B-936B1B0364A7/CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF",
+        "tag": "https://www.catma.de/tag",
+        "tagset": "https://www.catma.de/tagset"
+      },
+      "tagset": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C",
+      "tag": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_C6B0E6E4-8224-4455-9B6B-936B1B0364A7",
+      "properties": {
+        "system": {
+          "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": [
+            "2024-10-28T11:09:27.865+0100"
+          ],
+          "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": [
+            "NKellner"
+          ]
+        },
+        "user": {}
+      },
+      "type": "Dataset"
+    },
+    "target": {
+      "items": [
+        {
+          "source": "D_023EE3D5-8926-482C-A306-AC846BBAA528",
+          "selector": {
+            "start": 9569,
+            "end": 9577,
+            "type": "TextPositionSelector"
+          }
+        }
+      ],
+      "type": "List"
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": "collections/C_73B4B7BA-A0F0-4ECF-ADF2-C565DF8F5A28/annotations/CATMA_A785771C-1691-413C-ADC0-7725080C7C57",
+    "body": {
+      "@context": {
+        "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_6960AC2B-41E4-4B20-8467-011EAEA19675/CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6",
+        "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_6960AC2B-41E4-4B20-8467-011EAEA19675/CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF",
+        "tag": "https://www.catma.de/tag",
+        "tagset": "https://www.catma.de/tagset"
+      },
+      "tagset": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C",
+      "tag": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_6960AC2B-41E4-4B20-8467-011EAEA19675",
+      "properties": {
+        "system": {
+          "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": [
+            "2024-10-28T11:09:54.614+0100"
+          ],
+          "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": [
+            "NKellner"
+          ]
+        },
+        "user": {}
+      },
+      "type": "Dataset"
+    },
+    "target": {
+      "items": [
+        {
+          "source": "D_023EE3D5-8926-482C-A306-AC846BBAA528",
+          "selector": {
+            "start": 9601,
+            "end": 9605,
+            "type": "TextPositionSelector"
+          }
+        },
+        {
+          "source": "D_023EE3D5-8926-482C-A306-AC846BBAA528",
+          "selector": {
+            "start": 9637,
+            "end": 9645,
+            "type": "TextPositionSelector"
+          }
+        }
+      ],
+      "type": "List"
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": "collections/C_73B4B7BA-A0F0-4ECF-ADF2-C565DF8F5A28/annotations/CATMA_84833BD3-69BD-4756-8946-03295CD82092",
+    "body": {
+      "@context": {
+        "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_C6B0E6E4-8224-4455-9B6B-936B1B0364A7/CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6",
+        "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_C6B0E6E4-8224-4455-9B6B-936B1B0364A7/CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF",
+        "tag": "https://www.catma.de/tag",
+        "tagset": "https://www.catma.de/tagset"
+      },
+      "tagset": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C",
+      "tag": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_C6B0E6E4-8224-4455-9B6B-936B1B0364A7",
+      "properties": {
+        "system": {
+          "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": [
+            "2024-10-28T11:10:03.284+0100"
+          ],
+          "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": [
+            "NKellner"
+          ]
+        },
+        "user": {}
+      },
+      "type": "Dataset"
+    },
+    "target": {
+      "items": [
+        {
+          "source": "D_023EE3D5-8926-482C-A306-AC846BBAA528",
+          "selector": {
+            "start": 9648,
+            "end": 9653,
+            "type": "TextPositionSelector"
+          }
+        }
+      ],
+      "type": "List"
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": "collections/C_73B4B7BA-A0F0-4ECF-ADF2-C565DF8F5A28/annotations/CATMA_85843E38-65CF-471F-BCD4-940D221D3E73",
+    "body": {
+      "@context": {
+        "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_FCBC2620-4967-4A67-92BE-58BEE67BE3E5/CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6",
+        "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_FCBC2620-4967-4A67-92BE-58BEE67BE3E5/CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF",
+        "tag": "https://www.catma.de/tag",
+        "tagset": "https://www.catma.de/tagset"
+      },
+      "tagset": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C",
+      "tag": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_FCBC2620-4967-4A67-92BE-58BEE67BE3E5",
+      "properties": {
+        "system": {
+          "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": [
+            "2024-10-28T11:10:08.840+0100"
+          ],
+          "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": [
+            "NKellner"
+          ]
+        },
+        "user": {}
+      },
+      "type": "Dataset"
+    },
+    "target": {
+      "items": [
+        {
+          "source": "D_023EE3D5-8926-482C-A306-AC846BBAA528",
+          "selector": {
+            "start": 9659,
+            "end": 9662,
+            "type": "TextPositionSelector"
+          }
+        }
+      ],
+      "type": "List"
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": "collections/C_73B4B7BA-A0F0-4ECF-ADF2-C565DF8F5A28/annotations/CATMA_DF5CEA45-A42D-4E3B-A8BC-371E12F167B9",
+    "body": {
+      "@context": {
+        "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_6D201638-5657-4797-9D13-44C3D3772601/CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6",
+        "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_6D201638-5657-4797-9D13-44C3D3772601/CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF",
+        "tag": "https://www.catma.de/tag",
+        "tagset": "https://www.catma.de/tagset"
+      },
+      "tagset": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C",
+      "tag": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_6D201638-5657-4797-9D13-44C3D3772601",
+      "properties": {
+        "system": {
+          "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": [
+            "2024-10-28T11:10:15.244+0100"
+          ],
+          "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": [
+            "NKellner"
+          ]
+        },
+        "user": {}
+      },
+      "type": "Dataset"
+    },
+    "target": {
+      "items": [
+        {
+          "source": "D_023EE3D5-8926-482C-A306-AC846BBAA528",
+          "selector": {
+            "start": 9685,
+            "end": 9690,
+            "type": "TextPositionSelector"
+          }
+        }
+      ],
+      "type": "List"
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": "collections/C_73B4B7BA-A0F0-4ECF-ADF2-C565DF8F5A28/annotations/CATMA_F9730832-B0B0-4E5C-86C3-538215F2FB45",
+    "body": {
+      "@context": {
+        "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_1BC82955-F113-4F00-8CD3-788094AE1D41/CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6",
+        "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_1BC82955-F113-4F00-8CD3-788094AE1D41/CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF",
+        "tag": "https://www.catma.de/tag",
+        "tagset": "https://www.catma.de/tagset"
+      },
+      "tagset": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C",
+      "tag": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_1BC82955-F113-4F00-8CD3-788094AE1D41",
+      "properties": {
+        "system": {
+          "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": [
+            "2024-10-28T11:10:22.845+0100"
+          ],
+          "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": [
+            "NKellner"
+          ]
+        },
+        "user": {}
+      },
+      "type": "Dataset"
+    },
+    "target": {
+      "items": [
+        {
+          "source": "D_023EE3D5-8926-482C-A306-AC846BBAA528",
+          "selector": {
+            "start": 9695,
+            "end": 9699,
+            "type": "TextPositionSelector"
+          }
+        }
+      ],
+      "type": "List"
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": "collections/C_73B4B7BA-A0F0-4ECF-ADF2-C565DF8F5A28/annotations/CATMA_BFA52CB1-A44D-4F5A-8FA8-73718E58EB03",
+    "body": {
+      "@context": {
+        "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_FCBC2620-4967-4A67-92BE-58BEE67BE3E5/CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6",
+        "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_FCBC2620-4967-4A67-92BE-58BEE67BE3E5/CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF",
+        "tag": "https://www.catma.de/tag",
+        "tagset": "https://www.catma.de/tagset"
+      },
+      "tagset": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C",
+      "tag": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_FCBC2620-4967-4A67-92BE-58BEE67BE3E5",
+      "properties": {
+        "system": {
+          "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": [
+            "2024-10-28T11:10:29.511+0100"
+          ],
+          "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": [
+            "NKellner"
+          ]
+        },
+        "user": {}
+      },
+      "type": "Dataset"
+    },
+    "target": {
+      "items": [
+        {
+          "source": "D_023EE3D5-8926-482C-A306-AC846BBAA528",
+          "selector": {
+            "start": 9700,
+            "end": 9707,
+            "type": "TextPositionSelector"
+          }
+        }
+      ],
+      "type": "List"
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": "collections/C_73B4B7BA-A0F0-4ECF-ADF2-C565DF8F5A28/annotations/CATMA_06540559-382F-4C08-8DBF-777B44B81C04",
+    "body": {
+      "@context": {
+        "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_90C1BA61-3782-41FB-B549-9CA2995D6AEC/CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6",
+        "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_90C1BA61-3782-41FB-B549-9CA2995D6AEC/CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF",
+        "tag": "https://www.catma.de/tag",
+        "tagset": "https://www.catma.de/tagset"
+      },
+      "tagset": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C",
+      "tag": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_90C1BA61-3782-41FB-B549-9CA2995D6AEC",
+      "properties": {
+        "system": {
+          "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": [
+            "2024-10-28T11:10:38.874+0100"
+          ],
+          "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": [
+            "NKellner"
+          ]
+        },
+        "user": {}
+      },
+      "type": "Dataset"
+    },
+    "target": {
+      "items": [
+        {
+          "source": "D_023EE3D5-8926-482C-A306-AC846BBAA528",
+          "selector": {
+            "start": 9725,
+            "end": 9730,
+            "type": "TextPositionSelector"
+          }
+        }
+      ],
+      "type": "List"
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": "collections/C_73B4B7BA-A0F0-4ECF-ADF2-C565DF8F5A28/annotations/CATMA_2CC8F011-4051-4924-AB6D-4348A487A83E",
+    "body": {
+      "@context": {
+        "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_D99C06FB-99AF-4166-81BB-23B1AEBC70CB/CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6",
+        "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_D99C06FB-99AF-4166-81BB-23B1AEBC70CB/CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF",
+        "tag": "https://www.catma.de/tag",
+        "tagset": "https://www.catma.de/tagset"
+      },
+      "tagset": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C",
+      "tag": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_D99C06FB-99AF-4166-81BB-23B1AEBC70CB",
+      "properties": {
+        "system": {
+          "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": [
+            "2024-10-28T11:10:44.384+0100"
+          ],
+          "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": [
+            "NKellner"
+          ]
+        },
+        "user": {}
+      },
+      "type": "Dataset"
+    },
+    "target": {
+      "items": [
+        {
+          "source": "D_023EE3D5-8926-482C-A306-AC846BBAA528",
+          "selector": {
+            "start": 9774,
+            "end": 9777,
+            "type": "TextPositionSelector"
+          }
+        }
+      ],
+      "type": "List"
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": "collections/C_73B4B7BA-A0F0-4ECF-ADF2-C565DF8F5A28/annotations/CATMA_27D24381-B609-4146-A920-024C625AC481",
+    "body": {
+      "@context": {
+        "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_C6B0E6E4-8224-4455-9B6B-936B1B0364A7/CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6",
+        "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_C6B0E6E4-8224-4455-9B6B-936B1B0364A7/CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF",
+        "tag": "https://www.catma.de/tag",
+        "tagset": "https://www.catma.de/tagset"
+      },
+      "tagset": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C",
+      "tag": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_C6B0E6E4-8224-4455-9B6B-936B1B0364A7",
+      "properties": {
+        "system": {
+          "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": [
+            "2024-10-28T11:10:51.983+0100"
+          ],
+          "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": [
+            "NKellner"
+          ]
+        },
+        "user": {}
+      },
+      "type": "Dataset"
+    },
+    "target": {
+      "items": [
+        {
+          "source": "D_023EE3D5-8926-482C-A306-AC846BBAA528",
+          "selector": {
+            "start": 9837,
+            "end": 9844,
+            "type": "TextPositionSelector"
+          }
+        }
+      ],
+      "type": "List"
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": "collections/C_73B4B7BA-A0F0-4ECF-ADF2-C565DF8F5A28/annotations/CATMA_AF1F7EBC-5E25-4DF5-B765-75173EF829AD",
+    "body": {
+      "@context": {
+        "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_90C1BA61-3782-41FB-B549-9CA2995D6AEC/CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6",
+        "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_90C1BA61-3782-41FB-B549-9CA2995D6AEC/CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF",
+        "tag": "https://www.catma.de/tag",
+        "tagset": "https://www.catma.de/tagset"
+      },
+      "tagset": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C",
+      "tag": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_90C1BA61-3782-41FB-B549-9CA2995D6AEC",
+      "properties": {
+        "system": {
+          "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": [
+            "2024-10-28T11:10:55.800+0100"
+          ],
+          "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": [
+            "NKellner"
+          ]
+        },
+        "user": {}
+      },
+      "type": "Dataset"
+    },
+    "target": {
+      "items": [
+        {
+          "source": "D_023EE3D5-8926-482C-A306-AC846BBAA528",
+          "selector": {
+            "start": 9849,
+            "end": 9856,
+            "type": "TextPositionSelector"
+          }
+        }
+      ],
+      "type": "List"
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": "collections/C_73B4B7BA-A0F0-4ECF-ADF2-C565DF8F5A28/annotations/CATMA_AECC0719-1D9B-4938-9466-2FD19B770AF3",
+    "body": {
+      "@context": {
+        "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_76607AB2-4B8C-4440-8857-CE54BEDDF830/CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6",
+        "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_76607AB2-4B8C-4440-8857-CE54BEDDF830/CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF",
+        "tag": "https://www.catma.de/tag",
+        "tagset": "https://www.catma.de/tagset"
+      },
+      "tagset": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C",
+      "tag": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_76607AB2-4B8C-4440-8857-CE54BEDDF830",
+      "properties": {
+        "system": {
+          "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": [
+            "2024-10-28T11:11:03.311+0100"
+          ],
+          "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": [
+            "NKellner"
+          ]
+        },
+        "user": {}
+      },
+      "type": "Dataset"
+    },
+    "target": {
+      "items": [
+        {
+          "source": "D_023EE3D5-8926-482C-A306-AC846BBAA528",
+          "selector": {
+            "start": 9871,
+            "end": 9882,
+            "type": "TextPositionSelector"
+          }
+        }
+      ],
+      "type": "List"
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": "collections/C_73B4B7BA-A0F0-4ECF-ADF2-C565DF8F5A28/annotations/CATMA_3E2D3B98-DA05-4212-B3E5-600F0C6A066C",
+    "body": {
+      "@context": {
+        "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_D99C06FB-99AF-4166-81BB-23B1AEBC70CB/CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6",
+        "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_D99C06FB-99AF-4166-81BB-23B1AEBC70CB/CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF",
+        "tag": "https://www.catma.de/tag",
+        "tagset": "https://www.catma.de/tagset"
+      },
+      "tagset": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C",
+      "tag": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_D99C06FB-99AF-4166-81BB-23B1AEBC70CB",
+      "properties": {
+        "system": {
+          "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": [
+            "2024-10-28T11:11:08.153+0100"
+          ],
+          "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": [
+            "NKellner"
+          ]
+        },
+        "user": {}
+      },
+      "type": "Dataset"
+    },
+    "target": {
+      "items": [
+        {
+          "source": "D_023EE3D5-8926-482C-A306-AC846BBAA528",
+          "selector": {
+            "start": 9883,
+            "end": 9888,
+            "type": "TextPositionSelector"
+          }
+        }
+      ],
+      "type": "List"
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": "collections/C_73B4B7BA-A0F0-4ECF-ADF2-C565DF8F5A28/annotations/CATMA_438178EA-AB61-4AAE-B8F8-F2254DAAB821",
+    "body": {
+      "@context": {
+        "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_76607AB2-4B8C-4440-8857-CE54BEDDF830/CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6",
+        "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_76607AB2-4B8C-4440-8857-CE54BEDDF830/CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF",
+        "tag": "https://www.catma.de/tag",
+        "tagset": "https://www.catma.de/tagset"
+      },
+      "tagset": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C",
+      "tag": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_76607AB2-4B8C-4440-8857-CE54BEDDF830",
+      "properties": {
+        "system": {
+          "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": [
+            "2024-10-28T11:11:13.130+0100"
+          ],
+          "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": [
+            "NKellner"
+          ]
+        },
+        "user": {}
+      },
+      "type": "Dataset"
+    },
+    "target": {
+      "items": [
+        {
+          "source": "D_023EE3D5-8926-482C-A306-AC846BBAA528",
+          "selector": {
+            "start": 9889,
+            "end": 9896,
+            "type": "TextPositionSelector"
+          }
+        }
+      ],
+      "type": "List"
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": "collections/C_73B4B7BA-A0F0-4ECF-ADF2-C565DF8F5A28/annotations/CATMA_863E57EC-B2A4-47EB-BEB2-A69344A17325",
+    "body": {
+      "@context": {
+        "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_C6B0E6E4-8224-4455-9B6B-936B1B0364A7/CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6",
+        "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_C6B0E6E4-8224-4455-9B6B-936B1B0364A7/CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF",
+        "tag": "https://www.catma.de/tag",
+        "tagset": "https://www.catma.de/tagset"
+      },
+      "tagset": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C",
+      "tag": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_C6B0E6E4-8224-4455-9B6B-936B1B0364A7",
+      "properties": {
+        "system": {
+          "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": [
+            "2024-10-28T11:11:24.576+0100"
+          ],
+          "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": [
+            "NKellner"
+          ]
+        },
+        "user": {}
+      },
+      "type": "Dataset"
+    },
+    "target": {
+      "items": [
+        {
+          "source": "D_023EE3D5-8926-482C-A306-AC846BBAA528",
+          "selector": {
+            "start": 9916,
+            "end": 9931,
+            "type": "TextPositionSelector"
+          }
+        }
+      ],
+      "type": "List"
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": "collections/C_73B4B7BA-A0F0-4ECF-ADF2-C565DF8F5A28/annotations/CATMA_E2D592F1-BDE2-490B-BE71-D489DA36C2C2",
+    "body": {
+      "@context": {
+        "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_1BC82955-F113-4F00-8CD3-788094AE1D41/CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6",
+        "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_1BC82955-F113-4F00-8CD3-788094AE1D41/CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF",
+        "tag": "https://www.catma.de/tag",
+        "tagset": "https://www.catma.de/tagset"
+      },
+      "tagset": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C",
+      "tag": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_1BC82955-F113-4F00-8CD3-788094AE1D41",
+      "properties": {
+        "system": {
+          "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": [
+            "2024-10-28T11:13:00.793+0100"
+          ],
+          "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": [
+            "NKellner"
+          ]
+        },
+        "user": {}
+      },
+      "type": "Dataset"
+    },
+    "target": {
+      "items": [
+        {
+          "source": "D_023EE3D5-8926-482C-A306-AC846BBAA528",
+          "selector": {
+            "start": 9988,
+            "end": 9996,
+            "type": "TextPositionSelector"
+          }
+        }
+      ],
+      "type": "List"
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": "collections/C_73B4B7BA-A0F0-4ECF-ADF2-C565DF8F5A28/annotations/CATMA_B7F37AEF-6037-449A-9F4D-A1F4D3D4D88F",
+    "body": {
+      "@context": {
+        "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_D99C06FB-99AF-4166-81BB-23B1AEBC70CB/CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6",
+        "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_D99C06FB-99AF-4166-81BB-23B1AEBC70CB/CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF",
+        "tag": "https://www.catma.de/tag",
+        "tagset": "https://www.catma.de/tagset"
+      },
+      "tagset": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C",
+      "tag": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_D99C06FB-99AF-4166-81BB-23B1AEBC70CB",
+      "properties": {
+        "system": {
+          "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": [
+            "2024-10-28T11:13:07.603+0100"
+          ],
+          "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": [
+            "NKellner"
+          ]
+        },
+        "user": {}
+      },
+      "type": "Dataset"
+    },
+    "target": {
+      "items": [
+        {
+          "source": "D_023EE3D5-8926-482C-A306-AC846BBAA528",
+          "selector": {
+            "start": 10077,
+            "end": 10085,
+            "type": "TextPositionSelector"
+          }
+        }
+      ],
+      "type": "List"
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": "collections/C_73B4B7BA-A0F0-4ECF-ADF2-C565DF8F5A28/annotations/CATMA_CF5CDCFC-71B8-45D7-9EC3-C3A5BB41BA25",
+    "body": {
+      "@context": {
+        "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_C6B0E6E4-8224-4455-9B6B-936B1B0364A7/CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6",
+        "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_C6B0E6E4-8224-4455-9B6B-936B1B0364A7/CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF",
+        "tag": "https://www.catma.de/tag",
+        "tagset": "https://www.catma.de/tagset"
+      },
+      "tagset": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C",
+      "tag": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_C6B0E6E4-8224-4455-9B6B-936B1B0364A7",
+      "properties": {
+        "system": {
+          "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": [
+            "2024-10-28T11:13:15.524+0100"
+          ],
+          "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": [
+            "NKellner"
+          ]
+        },
+        "user": {}
+      },
+      "type": "Dataset"
+    },
+    "target": {
+      "items": [
+        {
+          "source": "D_023EE3D5-8926-482C-A306-AC846BBAA528",
+          "selector": {
+            "start": 10101,
+            "end": 10114,
+            "type": "TextPositionSelector"
+          }
+        }
+      ],
+      "type": "List"
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": "collections/C_73B4B7BA-A0F0-4ECF-ADF2-C565DF8F5A28/annotations/CATMA_36025555-FCB1-4D2B-9B2B-08B06BDF47B4",
+    "body": {
+      "@context": {
+        "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_1BC82955-F113-4F00-8CD3-788094AE1D41/CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6",
+        "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_1BC82955-F113-4F00-8CD3-788094AE1D41/CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF",
+        "tag": "https://www.catma.de/tag",
+        "tagset": "https://www.catma.de/tagset"
+      },
+      "tagset": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C",
+      "tag": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_1BC82955-F113-4F00-8CD3-788094AE1D41",
+      "properties": {
+        "system": {
+          "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": [
+            "2024-10-28T11:13:21.758+0100"
+          ],
+          "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": [
+            "NKellner"
+          ]
+        },
+        "user": {}
+      },
+      "type": "Dataset"
+    },
+    "target": {
+      "items": [
+        {
+          "source": "D_023EE3D5-8926-482C-A306-AC846BBAA528",
+          "selector": {
+            "start": 10131,
+            "end": 10135,
+            "type": "TextPositionSelector"
+          }
+        }
+      ],
+      "type": "List"
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": "collections/C_73B4B7BA-A0F0-4ECF-ADF2-C565DF8F5A28/annotations/CATMA_E49C181A-1CEC-45D7-B878-9526E4D462E7",
+    "body": {
+      "@context": {
+        "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_1BC82955-F113-4F00-8CD3-788094AE1D41/CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6",
+        "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_1BC82955-F113-4F00-8CD3-788094AE1D41/CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF",
+        "tag": "https://www.catma.de/tag",
+        "tagset": "https://www.catma.de/tagset"
+      },
+      "tagset": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C",
+      "tag": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_1BC82955-F113-4F00-8CD3-788094AE1D41",
+      "properties": {
+        "system": {
+          "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": [
+            "2024-10-28T11:13:25.918+0100"
+          ],
+          "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": [
+            "NKellner"
+          ]
+        },
+        "user": {}
+      },
+      "type": "Dataset"
+    },
+    "target": {
+      "items": [
+        {
+          "source": "D_023EE3D5-8926-482C-A306-AC846BBAA528",
+          "selector": {
+            "start": 10142,
+            "end": 10151,
+            "type": "TextPositionSelector"
+          }
+        }
+      ],
+      "type": "List"
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": "collections/C_73B4B7BA-A0F0-4ECF-ADF2-C565DF8F5A28/annotations/CATMA_FB3539D6-86F0-4D10-978F-AA8516F727F1",
+    "body": {
+      "@context": {
+        "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_FCBC2620-4967-4A67-92BE-58BEE67BE3E5/CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6",
+        "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_FCBC2620-4967-4A67-92BE-58BEE67BE3E5/CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF",
+        "tag": "https://www.catma.de/tag",
+        "tagset": "https://www.catma.de/tagset"
+      },
+      "tagset": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C",
+      "tag": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_FCBC2620-4967-4A67-92BE-58BEE67BE3E5",
+      "properties": {
+        "system": {
+          "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": [
+            "2024-10-28T11:13:32.754+0100"
+          ],
+          "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": [
+            "NKellner"
+          ]
+        },
+        "user": {}
+      },
+      "type": "Dataset"
+    },
+    "target": {
+      "items": [
+        {
+          "source": "D_023EE3D5-8926-482C-A306-AC846BBAA528",
+          "selector": {
+            "start": 10158,
+            "end": 10161,
+            "type": "TextPositionSelector"
+          }
+        }
+      ],
+      "type": "List"
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": "collections/C_73B4B7BA-A0F0-4ECF-ADF2-C565DF8F5A28/annotations/CATMA_96CA35EA-E0F3-4770-8A56-2BA3B5277D74",
+    "body": {
+      "@context": {
+        "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_C6B0E6E4-8224-4455-9B6B-936B1B0364A7/CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6",
+        "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_C6B0E6E4-8224-4455-9B6B-936B1B0364A7/CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF",
+        "tag": "https://www.catma.de/tag",
+        "tagset": "https://www.catma.de/tagset"
+      },
+      "tagset": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C",
+      "tag": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_C6B0E6E4-8224-4455-9B6B-936B1B0364A7",
+      "properties": {
+        "system": {
+          "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": [
+            "2024-10-28T11:14:35.446+0100"
+          ],
+          "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": [
+            "NKellner"
+          ]
+        },
+        "user": {}
+      },
+      "type": "Dataset"
+    },
+    "target": {
+      "items": [
+        {
+          "source": "D_023EE3D5-8926-482C-A306-AC846BBAA528",
+          "selector": {
+            "start": 10205,
+            "end": 10211,
+            "type": "TextPositionSelector"
+          }
+        }
+      ],
+      "type": "List"
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": "collections/C_73B4B7BA-A0F0-4ECF-ADF2-C565DF8F5A28/annotations/CATMA_736890AF-56CD-4495-9E88-2BB33712190B",
+    "body": {
+      "@context": {
+        "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_FCBC2620-4967-4A67-92BE-58BEE67BE3E5/CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6",
+        "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_FCBC2620-4967-4A67-92BE-58BEE67BE3E5/CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF",
+        "tag": "https://www.catma.de/tag",
+        "tagset": "https://www.catma.de/tagset"
+      },
+      "tagset": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C",
+      "tag": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_FCBC2620-4967-4A67-92BE-58BEE67BE3E5",
+      "properties": {
+        "system": {
+          "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": [
+            "2024-10-28T11:14:41.329+0100"
+          ],
+          "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": [
+            "NKellner"
+          ]
+        },
+        "user": {}
+      },
+      "type": "Dataset"
+    },
+    "target": {
+      "items": [
+        {
+          "source": "D_023EE3D5-8926-482C-A306-AC846BBAA528",
+          "selector": {
+            "start": 10212,
+            "end": 10216,
+            "type": "TextPositionSelector"
+          }
+        }
+      ],
+      "type": "List"
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": "collections/C_73B4B7BA-A0F0-4ECF-ADF2-C565DF8F5A28/annotations/CATMA_4DAB1E8F-9A16-490E-BE59-57DEF5753498",
+    "body": {
+      "@context": {
+        "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_1BC82955-F113-4F00-8CD3-788094AE1D41/CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6",
+        "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_1BC82955-F113-4F00-8CD3-788094AE1D41/CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF",
+        "tag": "https://www.catma.de/tag",
+        "tagset": "https://www.catma.de/tagset"
+      },
+      "tagset": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C",
+      "tag": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_1BC82955-F113-4F00-8CD3-788094AE1D41",
+      "properties": {
+        "system": {
+          "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": [
+            "2024-10-28T11:14:46.992+0100"
+          ],
+          "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": [
+            "NKellner"
+          ]
+        },
+        "user": {}
+      },
+      "type": "Dataset"
+    },
+    "target": {
+      "items": [
+        {
+          "source": "D_023EE3D5-8926-482C-A306-AC846BBAA528",
+          "selector": {
+            "start": 10344,
+            "end": 10347,
+            "type": "TextPositionSelector"
+          }
+        }
+      ],
+      "type": "List"
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": "collections/C_73B4B7BA-A0F0-4ECF-ADF2-C565DF8F5A28/annotations/CATMA_8226AC4C-40C1-4B38-908C-C716E97318DC",
+    "body": {
+      "@context": {
+        "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_FCBC2620-4967-4A67-92BE-58BEE67BE3E5/CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6",
+        "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_FCBC2620-4967-4A67-92BE-58BEE67BE3E5/CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF",
+        "tag": "https://www.catma.de/tag",
+        "tagset": "https://www.catma.de/tagset"
+      },
+      "tagset": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C",
+      "tag": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_FCBC2620-4967-4A67-92BE-58BEE67BE3E5",
+      "properties": {
+        "system": {
+          "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": [
+            "2024-10-28T11:14:51.905+0100"
+          ],
+          "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": [
+            "NKellner"
+          ]
+        },
+        "user": {}
+      },
+      "type": "Dataset"
+    },
+    "target": {
+      "items": [
+        {
+          "source": "D_023EE3D5-8926-482C-A306-AC846BBAA528",
+          "selector": {
+            "start": 10351,
+            "end": 10354,
+            "type": "TextPositionSelector"
+          }
+        }
+      ],
+      "type": "List"
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": "collections/C_73B4B7BA-A0F0-4ECF-ADF2-C565DF8F5A28/annotations/CATMA_5AF07D9B-BB89-4404-A9EF-8C60AC5FB7B7",
+    "body": {
+      "@context": {
+        "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_FCBC2620-4967-4A67-92BE-58BEE67BE3E5/CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6",
+        "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_FCBC2620-4967-4A67-92BE-58BEE67BE3E5/CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF",
+        "tag": "https://www.catma.de/tag",
+        "tagset": "https://www.catma.de/tagset"
+      },
+      "tagset": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C",
+      "tag": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_FCBC2620-4967-4A67-92BE-58BEE67BE3E5",
+      "properties": {
+        "system": {
+          "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": [
+            "2024-10-28T11:14:55.993+0100"
+          ],
+          "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": [
+            "NKellner"
+          ]
+        },
+        "user": {}
+      },
+      "type": "Dataset"
+    },
+    "target": {
+      "items": [
+        {
+          "source": "D_023EE3D5-8926-482C-A306-AC846BBAA528",
+          "selector": {
+            "start": 10399,
+            "end": 10402,
+            "type": "TextPositionSelector"
+          }
+        }
+      ],
+      "type": "List"
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": "collections/C_73B4B7BA-A0F0-4ECF-ADF2-C565DF8F5A28/annotations/CATMA_8D1EFC23-38FD-4904-8F85-5DEAFA514110",
+    "body": {
+      "@context": {
+        "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_C6B0E6E4-8224-4455-9B6B-936B1B0364A7/CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6",
+        "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_C6B0E6E4-8224-4455-9B6B-936B1B0364A7/CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF",
+        "tag": "https://www.catma.de/tag",
+        "tagset": "https://www.catma.de/tagset"
+      },
+      "tagset": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C",
+      "tag": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_C6B0E6E4-8224-4455-9B6B-936B1B0364A7",
+      "properties": {
+        "system": {
+          "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": [
+            "2024-10-28T11:15:02.207+0100"
+          ],
+          "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": [
+            "NKellner"
+          ]
+        },
+        "user": {}
+      },
+      "type": "Dataset"
+    },
+    "target": {
+      "items": [
+        {
+          "source": "D_023EE3D5-8926-482C-A306-AC846BBAA528",
+          "selector": {
+            "start": 10433,
+            "end": 10446,
+            "type": "TextPositionSelector"
+          }
+        }
+      ],
+      "type": "List"
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": "collections/C_73B4B7BA-A0F0-4ECF-ADF2-C565DF8F5A28/annotations/CATMA_C1F3CA72-69CD-4AC2-8ACA-184C6E8D71DA",
+    "body": {
+      "@context": {
+        "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_6960AC2B-41E4-4B20-8467-011EAEA19675/CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6",
+        "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_6960AC2B-41E4-4B20-8467-011EAEA19675/CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF",
+        "tag": "https://www.catma.de/tag",
+        "tagset": "https://www.catma.de/tagset"
+      },
+      "tagset": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C",
+      "tag": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_6960AC2B-41E4-4B20-8467-011EAEA19675",
+      "properties": {
+        "system": {
+          "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": [
+            "2024-10-28T11:15:09.356+0100"
+          ],
+          "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": [
+            "NKellner"
+          ]
+        },
+        "user": {}
+      },
+      "type": "Dataset"
+    },
+    "target": {
+      "items": [
+        {
+          "source": "D_023EE3D5-8926-482C-A306-AC846BBAA528",
+          "selector": {
+            "start": 10581,
+            "end": 10587,
+            "type": "TextPositionSelector"
+          }
+        }
+      ],
+      "type": "List"
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": "collections/C_73B4B7BA-A0F0-4ECF-ADF2-C565DF8F5A28/annotations/CATMA_04D82B07-BC8E-49A7-BFED-9240DD72431D",
+    "body": {
+      "@context": {
+        "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_1BC82955-F113-4F00-8CD3-788094AE1D41/CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6",
+        "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_1BC82955-F113-4F00-8CD3-788094AE1D41/CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF",
+        "tag": "https://www.catma.de/tag",
+        "tagset": "https://www.catma.de/tagset"
+      },
+      "tagset": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C",
+      "tag": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_1BC82955-F113-4F00-8CD3-788094AE1D41",
+      "properties": {
+        "system": {
+          "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": [
+            "2024-10-28T11:15:20.947+0100"
+          ],
+          "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": [
+            "NKellner"
+          ]
+        },
+        "user": {}
+      },
+      "type": "Dataset"
+    },
+    "target": {
+      "items": [
+        {
+          "source": "D_023EE3D5-8926-482C-A306-AC846BBAA528",
+          "selector": {
+            "start": 10596,
+            "end": 10599,
+            "type": "TextPositionSelector"
+          }
+        },
+        {
+          "source": "D_023EE3D5-8926-482C-A306-AC846BBAA528",
+          "selector": {
+            "start": 10619,
+            "end": 10621,
+            "type": "TextPositionSelector"
+          }
+        }
+      ],
+      "type": "List"
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": "collections/C_73B4B7BA-A0F0-4ECF-ADF2-C565DF8F5A28/annotations/CATMA_50C6C5A5-1EC3-48D3-9D2B-8F3EFAF2D324",
+    "body": {
+      "@context": {
+        "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_1BC82955-F113-4F00-8CD3-788094AE1D41/CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6",
+        "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_1BC82955-F113-4F00-8CD3-788094AE1D41/CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF",
+        "tag": "https://www.catma.de/tag",
+        "tagset": "https://www.catma.de/tagset"
+      },
+      "tagset": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C",
+      "tag": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_1BC82955-F113-4F00-8CD3-788094AE1D41",
+      "properties": {
+        "system": {
+          "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": [
+            "2024-10-28T11:15:29.032+0100"
+          ],
+          "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": [
+            "NKellner"
+          ]
+        },
+        "user": {}
+      },
+      "type": "Dataset"
+    },
+    "target": {
+      "items": [
+        {
+          "source": "D_023EE3D5-8926-482C-A306-AC846BBAA528",
+          "selector": {
+            "start": 10638,
+            "end": 10643,
+            "type": "TextPositionSelector"
+          }
+        }
+      ],
+      "type": "List"
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": "collections/C_73B4B7BA-A0F0-4ECF-ADF2-C565DF8F5A28/annotations/CATMA_BA68AB6F-532B-42E7-8A59-3F00B977E1B0",
+    "body": {
+      "@context": {
+        "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_1BC82955-F113-4F00-8CD3-788094AE1D41/CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6",
+        "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_1BC82955-F113-4F00-8CD3-788094AE1D41/CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF",
+        "tag": "https://www.catma.de/tag",
+        "tagset": "https://www.catma.de/tagset"
+      },
+      "tagset": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C",
+      "tag": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_1BC82955-F113-4F00-8CD3-788094AE1D41",
+      "properties": {
+        "system": {
+          "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": [
+            "2024-10-28T11:15:33.818+0100"
+          ],
+          "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": [
+            "NKellner"
+          ]
+        },
+        "user": {}
+      },
+      "type": "Dataset"
+    },
+    "target": {
+      "items": [
+        {
+          "source": "D_023EE3D5-8926-482C-A306-AC846BBAA528",
+          "selector": {
+            "start": 10668,
+            "end": 10672,
+            "type": "TextPositionSelector"
+          }
+        }
+      ],
+      "type": "List"
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": "collections/C_73B4B7BA-A0F0-4ECF-ADF2-C565DF8F5A28/annotations/CATMA_9853CEA8-20AD-4BFC-AF94-35784D99ACD6",
+    "body": {
+      "@context": {
+        "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_D99C06FB-99AF-4166-81BB-23B1AEBC70CB/CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6",
+        "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_D99C06FB-99AF-4166-81BB-23B1AEBC70CB/CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF",
+        "tag": "https://www.catma.de/tag",
+        "tagset": "https://www.catma.de/tagset"
+      },
+      "tagset": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C",
+      "tag": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_D99C06FB-99AF-4166-81BB-23B1AEBC70CB",
+      "properties": {
+        "system": {
+          "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": [
+            "2024-10-28T11:16:33.192+0100"
+          ],
+          "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": [
+            "NKellner"
+          ]
+        },
+        "user": {}
+      },
+      "type": "Dataset"
+    },
+    "target": {
+      "items": [
+        {
+          "source": "D_023EE3D5-8926-482C-A306-AC846BBAA528",
+          "selector": {
+            "start": 10903,
+            "end": 10908,
+            "type": "TextPositionSelector"
+          }
+        }
+      ],
+      "type": "List"
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": "collections/C_73B4B7BA-A0F0-4ECF-ADF2-C565DF8F5A28/annotations/CATMA_4FCFB4FE-7135-4CA4-BECA-CEE11FF06E8C",
+    "body": {
+      "@context": {
+        "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_1BC82955-F113-4F00-8CD3-788094AE1D41/CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6",
+        "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_1BC82955-F113-4F00-8CD3-788094AE1D41/CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF",
+        "tag": "https://www.catma.de/tag",
+        "tagset": "https://www.catma.de/tagset"
+      },
+      "tagset": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C",
+      "tag": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_1BC82955-F113-4F00-8CD3-788094AE1D41",
+      "properties": {
+        "system": {
+          "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": [
+            "2024-10-28T11:16:38.897+0100"
+          ],
+          "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": [
+            "NKellner"
+          ]
+        },
+        "user": {}
+      },
+      "type": "Dataset"
+    },
+    "target": {
+      "items": [
+        {
+          "source": "D_023EE3D5-8926-482C-A306-AC846BBAA528",
+          "selector": {
+            "start": 10980,
+            "end": 10986,
+            "type": "TextPositionSelector"
+          }
+        }
+      ],
+      "type": "List"
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": "collections/C_73B4B7BA-A0F0-4ECF-ADF2-C565DF8F5A28/annotations/CATMA_89EB3138-484D-4637-B6A3-54BA87112E43",
+    "body": {
+      "@context": {
+        "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_1BC82955-F113-4F00-8CD3-788094AE1D41/CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6",
+        "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_1BC82955-F113-4F00-8CD3-788094AE1D41/CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF",
+        "tag": "https://www.catma.de/tag",
+        "tagset": "https://www.catma.de/tagset"
+      },
+      "tagset": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C",
+      "tag": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_1BC82955-F113-4F00-8CD3-788094AE1D41",
+      "properties": {
+        "system": {
+          "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": [
+            "2024-10-28T11:16:55.315+0100"
+          ],
+          "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": [
+            "NKellner"
+          ]
+        },
+        "user": {}
+      },
+      "type": "Dataset"
+    },
+    "target": {
+      "items": [
+        {
+          "source": "D_023EE3D5-8926-482C-A306-AC846BBAA528",
+          "selector": {
+            "start": 11027,
+            "end": 11031,
+            "type": "TextPositionSelector"
+          }
+        }
+      ],
+      "type": "List"
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": "collections/C_73B4B7BA-A0F0-4ECF-ADF2-C565DF8F5A28/annotations/CATMA_967D51F9-6C6F-408B-842E-A53EE843F0F3",
+    "body": {
+      "@context": {
+        "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_D99C06FB-99AF-4166-81BB-23B1AEBC70CB/CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6",
+        "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_D99C06FB-99AF-4166-81BB-23B1AEBC70CB/CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF",
+        "tag": "https://www.catma.de/tag",
+        "tagset": "https://www.catma.de/tagset"
+      },
+      "tagset": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C",
+      "tag": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_D99C06FB-99AF-4166-81BB-23B1AEBC70CB",
+      "properties": {
+        "system": {
+          "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": [
+            "2024-10-28T11:17:00.488+0100"
+          ],
+          "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": [
+            "NKellner"
+          ]
+        },
+        "user": {}
+      },
+      "type": "Dataset"
+    },
+    "target": {
+      "items": [
+        {
+          "source": "D_023EE3D5-8926-482C-A306-AC846BBAA528",
+          "selector": {
+            "start": 11036,
+            "end": 11039,
+            "type": "TextPositionSelector"
+          }
+        }
+      ],
+      "type": "List"
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": "collections/C_73B4B7BA-A0F0-4ECF-ADF2-C565DF8F5A28/annotations/CATMA_D60B67ED-5594-4739-814A-701CC239A7DE",
+    "body": {
+      "@context": {
+        "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_296BAC6C-7F06-47A9-A6F4-DE28800A8E24/CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6",
+        "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_296BAC6C-7F06-47A9-A6F4-DE28800A8E24/CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF",
+        "tag": "https://www.catma.de/tag",
+        "tagset": "https://www.catma.de/tagset"
+      },
+      "tagset": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C",
+      "tag": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_296BAC6C-7F06-47A9-A6F4-DE28800A8E24",
+      "properties": {
+        "system": {
+          "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": [
+            "2024-10-28T11:17:28.715+0100"
+          ],
+          "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": [
+            "NKellner"
+          ]
+        },
+        "user": {}
+      },
+      "type": "Dataset"
+    },
+    "target": {
+      "items": [
+        {
+          "source": "D_023EE3D5-8926-482C-A306-AC846BBAA528",
+          "selector": {
+            "start": 11147,
+            "end": 11154,
+            "type": "TextPositionSelector"
+          }
+        }
+      ],
+      "type": "List"
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": "collections/C_73B4B7BA-A0F0-4ECF-ADF2-C565DF8F5A28/annotations/CATMA_D9C7FE65-7AA4-4934-862A-799680E151F9",
+    "body": {
+      "@context": {
+        "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_5A71B179-65C2-4D7A-A4CC-1E45F691F683/CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6",
+        "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_5A71B179-65C2-4D7A-A4CC-1E45F691F683/CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF",
+        "tag": "https://www.catma.de/tag",
+        "tagset": "https://www.catma.de/tagset"
+      },
+      "tagset": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C",
+      "tag": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_5A71B179-65C2-4D7A-A4CC-1E45F691F683",
+      "properties": {
+        "system": {
+          "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": [
+            "2024-10-28T11:17:35.925+0100"
+          ],
+          "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": [
+            "NKellner"
+          ]
+        },
+        "user": {}
+      },
+      "type": "Dataset"
+    },
+    "target": {
+      "items": [
+        {
+          "source": "D_023EE3D5-8926-482C-A306-AC846BBAA528",
+          "selector": {
+            "start": 11200,
+            "end": 11214,
+            "type": "TextPositionSelector"
+          }
+        }
+      ],
+      "type": "List"
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": "collections/C_73B4B7BA-A0F0-4ECF-ADF2-C565DF8F5A28/annotations/CATMA_ADEFCF5C-15F5-42A4-9150-FD54A5DF1DB3",
+    "body": {
+      "@context": {
+        "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_C6B0E6E4-8224-4455-9B6B-936B1B0364A7/CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6",
+        "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_C6B0E6E4-8224-4455-9B6B-936B1B0364A7/CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF",
+        "tag": "https://www.catma.de/tag",
+        "tagset": "https://www.catma.de/tagset"
+      },
+      "tagset": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C",
+      "tag": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_C6B0E6E4-8224-4455-9B6B-936B1B0364A7",
+      "properties": {
+        "system": {
+          "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": [
+            "2024-10-28T11:17:42.913+0100"
+          ],
+          "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": [
+            "NKellner"
+          ]
+        },
+        "user": {}
+      },
+      "type": "Dataset"
+    },
+    "target": {
+      "items": [
+        {
+          "source": "D_023EE3D5-8926-482C-A306-AC846BBAA528",
+          "selector": {
+            "start": 11254,
+            "end": 11267,
+            "type": "TextPositionSelector"
+          }
+        }
+      ],
+      "type": "List"
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": "collections/C_73B4B7BA-A0F0-4ECF-ADF2-C565DF8F5A28/annotations/CATMA_1ED34DA7-4B60-41D2-93D5-E04922D459B7",
+    "body": {
+      "@context": {
+        "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_D99C06FB-99AF-4166-81BB-23B1AEBC70CB/CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6",
+        "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_D99C06FB-99AF-4166-81BB-23B1AEBC70CB/CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF",
+        "tag": "https://www.catma.de/tag",
+        "tagset": "https://www.catma.de/tagset"
+      },
+      "tagset": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C",
+      "tag": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_D99C06FB-99AF-4166-81BB-23B1AEBC70CB",
+      "properties": {
+        "system": {
+          "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": [
+            "2024-10-28T11:17:47.205+0100"
+          ],
+          "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": [
+            "NKellner"
+          ]
+        },
+        "user": {}
+      },
+      "type": "Dataset"
+    },
+    "target": {
+      "items": [
+        {
+          "source": "D_023EE3D5-8926-482C-A306-AC846BBAA528",
+          "selector": {
+            "start": 11274,
+            "end": 11277,
+            "type": "TextPositionSelector"
+          }
+        }
+      ],
+      "type": "List"
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": "collections/C_73B4B7BA-A0F0-4ECF-ADF2-C565DF8F5A28/annotations/CATMA_280C361C-A2B6-44D1-A7F2-F11A4B666B89",
+    "body": {
+      "@context": {
+        "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_5A71B179-65C2-4D7A-A4CC-1E45F691F683/CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6",
+        "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_5A71B179-65C2-4D7A-A4CC-1E45F691F683/CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF",
+        "tag": "https://www.catma.de/tag",
+        "tagset": "https://www.catma.de/tagset"
+      },
+      "tagset": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C",
+      "tag": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_5A71B179-65C2-4D7A-A4CC-1E45F691F683",
+      "properties": {
+        "system": {
+          "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": [
+            "2024-10-28T11:17:55.048+0100"
+          ],
+          "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": [
+            "NKellner"
+          ]
+        },
+        "user": {}
+      },
+      "type": "Dataset"
+    },
+    "target": {
+      "items": [
+        {
+          "source": "D_023EE3D5-8926-482C-A306-AC846BBAA528",
+          "selector": {
+            "start": 11350,
+            "end": 11358,
+            "type": "TextPositionSelector"
+          }
+        }
+      ],
+      "type": "List"
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": "collections/C_73B4B7BA-A0F0-4ECF-ADF2-C565DF8F5A28/annotations/CATMA_B6B283C3-47B8-4289-BB94-C11547AAB421",
+    "body": {
+      "@context": {
+        "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_5A71B179-65C2-4D7A-A4CC-1E45F691F683/CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6",
+        "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_5A71B179-65C2-4D7A-A4CC-1E45F691F683/CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF",
+        "tag": "https://www.catma.de/tag",
+        "tagset": "https://www.catma.de/tagset"
+      },
+      "tagset": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C",
+      "tag": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_5A71B179-65C2-4D7A-A4CC-1E45F691F683",
+      "properties": {
+        "system": {
+          "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": [
+            "2024-10-28T11:17:59.536+0100"
+          ],
+          "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": [
+            "NKellner"
+          ]
+        },
+        "user": {}
+      },
+      "type": "Dataset"
+    },
+    "target": {
+      "items": [
+        {
+          "source": "D_023EE3D5-8926-482C-A306-AC846BBAA528",
+          "selector": {
+            "start": 11359,
+            "end": 11365,
+            "type": "TextPositionSelector"
+          }
+        }
+      ],
+      "type": "List"
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": "collections/C_73B4B7BA-A0F0-4ECF-ADF2-C565DF8F5A28/annotations/CATMA_4934907A-F40F-43ED-9358-2DAEDA98EF39",
+    "body": {
+      "@context": {
+        "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_5A71B179-65C2-4D7A-A4CC-1E45F691F683/CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6",
+        "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_5A71B179-65C2-4D7A-A4CC-1E45F691F683/CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF",
+        "tag": "https://www.catma.de/tag",
+        "tagset": "https://www.catma.de/tagset"
+      },
+      "tagset": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C",
+      "tag": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_5A71B179-65C2-4D7A-A4CC-1E45F691F683",
+      "properties": {
+        "system": {
+          "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": [
+            "2024-10-28T11:18:05.526+0100"
+          ],
+          "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": [
+            "NKellner"
+          ]
+        },
+        "user": {}
+      },
+      "type": "Dataset"
+    },
+    "target": {
+      "items": [
+        {
+          "source": "D_023EE3D5-8926-482C-A306-AC846BBAA528",
+          "selector": {
+            "start": 11403,
+            "end": 11410,
+            "type": "TextPositionSelector"
+          }
+        }
+      ],
+      "type": "List"
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": "collections/C_73B4B7BA-A0F0-4ECF-ADF2-C565DF8F5A28/annotations/CATMA_3B547D01-0C17-4F95-90F0-EFC24200A804",
+    "body": {
+      "@context": {
+        "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_90C1BA61-3782-41FB-B549-9CA2995D6AEC/CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6",
+        "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_90C1BA61-3782-41FB-B549-9CA2995D6AEC/CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF",
+        "tag": "https://www.catma.de/tag",
+        "tagset": "https://www.catma.de/tagset"
+      },
+      "tagset": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C",
+      "tag": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_90C1BA61-3782-41FB-B549-9CA2995D6AEC",
+      "properties": {
+        "system": {
+          "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": [
+            "2024-10-28T11:18:12.337+0100"
+          ],
+          "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": [
+            "NKellner"
+          ]
+        },
+        "user": {}
+      },
+      "type": "Dataset"
+    },
+    "target": {
+      "items": [
+        {
+          "source": "D_023EE3D5-8926-482C-A306-AC846BBAA528",
+          "selector": {
+            "start": 11438,
+            "end": 11442,
+            "type": "TextPositionSelector"
+          }
+        }
+      ],
+      "type": "List"
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": "collections/C_73B4B7BA-A0F0-4ECF-ADF2-C565DF8F5A28/annotations/CATMA_040F156D-0710-4D14-A3A7-44C378EDAE9C",
+    "body": {
+      "@context": {
+        "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_1BC82955-F113-4F00-8CD3-788094AE1D41/CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6",
+        "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_1BC82955-F113-4F00-8CD3-788094AE1D41/CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF",
+        "tag": "https://www.catma.de/tag",
+        "tagset": "https://www.catma.de/tagset"
+      },
+      "tagset": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C",
+      "tag": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_1BC82955-F113-4F00-8CD3-788094AE1D41",
+      "properties": {
+        "system": {
+          "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": [
+            "2024-10-28T11:38:57.287+0100"
+          ],
+          "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": [
+            "NKellner"
+          ]
+        },
+        "user": {}
+      },
+      "type": "Dataset"
+    },
+    "target": {
+      "items": [
+        {
+          "source": "D_023EE3D5-8926-482C-A306-AC846BBAA528",
+          "selector": {
+            "start": 11603,
+            "end": 11607,
+            "type": "TextPositionSelector"
+          }
+        }
+      ],
+      "type": "List"
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": "collections/C_73B4B7BA-A0F0-4ECF-ADF2-C565DF8F5A28/annotations/CATMA_A8C52E89-F4AF-47E9-8C58-A6B233D707D5",
+    "body": {
+      "@context": {
+        "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_D99C06FB-99AF-4166-81BB-23B1AEBC70CB/CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6",
+        "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_D99C06FB-99AF-4166-81BB-23B1AEBC70CB/CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF",
+        "tag": "https://www.catma.de/tag",
+        "tagset": "https://www.catma.de/tagset"
+      },
+      "tagset": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C",
+      "tag": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_D99C06FB-99AF-4166-81BB-23B1AEBC70CB",
+      "properties": {
+        "system": {
+          "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": [
+            "2024-10-28T11:39:02.553+0100"
+          ],
+          "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": [
+            "NKellner"
+          ]
+        },
+        "user": {}
+      },
+      "type": "Dataset"
+    },
+    "target": {
+      "items": [
+        {
+          "source": "D_023EE3D5-8926-482C-A306-AC846BBAA528",
+          "selector": {
+            "start": 11609,
+            "end": 11613,
+            "type": "TextPositionSelector"
+          }
+        }
+      ],
+      "type": "List"
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": "collections/C_73B4B7BA-A0F0-4ECF-ADF2-C565DF8F5A28/annotations/CATMA_B4524EBC-D873-45F8-A35B-A84069FFB540",
+    "body": {
+      "@context": {
+        "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_6931398D-8471-4CC2-86BE-0364AC24F170/CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6",
+        "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_6931398D-8471-4CC2-86BE-0364AC24F170/CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF",
+        "tag": "https://www.catma.de/tag",
+        "tagset": "https://www.catma.de/tagset"
+      },
+      "tagset": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C",
+      "tag": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_6931398D-8471-4CC2-86BE-0364AC24F170",
+      "properties": {
+        "system": {
+          "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": [
+            "2024-10-28T11:39:09.847+0100"
+          ],
+          "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": [
+            "NKellner"
+          ]
+        },
+        "user": {}
+      },
+      "type": "Dataset"
+    },
+    "target": {
+      "items": [
+        {
+          "source": "D_023EE3D5-8926-482C-A306-AC846BBAA528",
+          "selector": {
+            "start": 11632,
+            "end": 11638,
+            "type": "TextPositionSelector"
+          }
+        }
+      ],
+      "type": "List"
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": "collections/C_73B4B7BA-A0F0-4ECF-ADF2-C565DF8F5A28/annotations/CATMA_9B8C192B-6FE3-4409-B034-1C8362DC98C8",
+    "body": {
+      "@context": {
+        "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_D99C06FB-99AF-4166-81BB-23B1AEBC70CB/CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6",
+        "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_D99C06FB-99AF-4166-81BB-23B1AEBC70CB/CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF",
+        "tag": "https://www.catma.de/tag",
+        "tagset": "https://www.catma.de/tagset"
+      },
+      "tagset": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C",
+      "tag": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_D99C06FB-99AF-4166-81BB-23B1AEBC70CB",
+      "properties": {
+        "system": {
+          "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": [
+            "2024-10-28T11:39:15.630+0100"
+          ],
+          "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": [
+            "NKellner"
+          ]
+        },
+        "user": {}
+      },
+      "type": "Dataset"
+    },
+    "target": {
+      "items": [
+        {
+          "source": "D_023EE3D5-8926-482C-A306-AC846BBAA528",
+          "selector": {
+            "start": 11664,
+            "end": 11668,
+            "type": "TextPositionSelector"
+          }
+        }
+      ],
+      "type": "List"
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": "collections/C_73B4B7BA-A0F0-4ECF-ADF2-C565DF8F5A28/annotations/CATMA_C5635F12-AE2A-4C1E-AD37-5F048BD35E9A",
+    "body": {
+      "@context": {
+        "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_6931398D-8471-4CC2-86BE-0364AC24F170/CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6",
+        "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_6931398D-8471-4CC2-86BE-0364AC24F170/CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF",
+        "tag": "https://www.catma.de/tag",
+        "tagset": "https://www.catma.de/tagset"
+      },
+      "tagset": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C",
+      "tag": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_6931398D-8471-4CC2-86BE-0364AC24F170",
+      "properties": {
+        "system": {
+          "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": [
+            "2024-10-28T11:39:22.704+0100"
+          ],
+          "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": [
+            "NKellner"
+          ]
+        },
+        "user": {}
+      },
+      "type": "Dataset"
+    },
+    "target": {
+      "items": [
+        {
+          "source": "D_023EE3D5-8926-482C-A306-AC846BBAA528",
+          "selector": {
+            "start": 11684,
+            "end": 11690,
+            "type": "TextPositionSelector"
+          }
+        }
+      ],
+      "type": "List"
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": "collections/C_73B4B7BA-A0F0-4ECF-ADF2-C565DF8F5A28/annotations/CATMA_F96DF7AD-1138-4076-A50C-3C2BCBCCE905",
+    "body": {
+      "@context": {
+        "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_5A71B179-65C2-4D7A-A4CC-1E45F691F683/CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6",
+        "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_5A71B179-65C2-4D7A-A4CC-1E45F691F683/CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF",
+        "tag": "https://www.catma.de/tag",
+        "tagset": "https://www.catma.de/tagset"
+      },
+      "tagset": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C",
+      "tag": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_5A71B179-65C2-4D7A-A4CC-1E45F691F683",
+      "properties": {
+        "system": {
+          "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": [
+            "2024-10-28T11:39:27.590+0100"
+          ],
+          "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": [
+            "NKellner"
+          ]
+        },
+        "user": {}
+      },
+      "type": "Dataset"
+    },
+    "target": {
+      "items": [
+        {
+          "source": "D_023EE3D5-8926-482C-A306-AC846BBAA528",
+          "selector": {
+            "start": 11722,
+            "end": 11730,
+            "type": "TextPositionSelector"
+          }
+        }
+      ],
+      "type": "List"
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": "collections/C_73B4B7BA-A0F0-4ECF-ADF2-C565DF8F5A28/annotations/CATMA_18066E3F-B79F-44DB-B2AD-3E7C29927261",
+    "body": {
+      "@context": {
+        "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_296BAC6C-7F06-47A9-A6F4-DE28800A8E24/CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6",
+        "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_296BAC6C-7F06-47A9-A6F4-DE28800A8E24/CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF",
+        "tag": "https://www.catma.de/tag",
+        "tagset": "https://www.catma.de/tagset"
+      },
+      "tagset": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C",
+      "tag": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_296BAC6C-7F06-47A9-A6F4-DE28800A8E24",
+      "properties": {
+        "system": {
+          "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": [
+            "2024-10-28T11:39:40.414+0100"
+          ],
+          "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": [
+            "NKellner"
+          ]
+        },
+        "user": {}
+      },
+      "type": "Dataset"
+    },
+    "target": {
+      "items": [
+        {
+          "source": "D_023EE3D5-8926-482C-A306-AC846BBAA528",
+          "selector": {
+            "start": 11900,
+            "end": 11906,
+            "type": "TextPositionSelector"
+          }
+        }
+      ],
+      "type": "List"
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": "collections/C_73B4B7BA-A0F0-4ECF-ADF2-C565DF8F5A28/annotations/CATMA_7E8F3206-3FC3-4898-9FF0-09169C121FEC",
+    "body": {
+      "@context": {
+        "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_6960AC2B-41E4-4B20-8467-011EAEA19675/CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6",
+        "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_6960AC2B-41E4-4B20-8467-011EAEA19675/CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF",
+        "tag": "https://www.catma.de/tag",
+        "tagset": "https://www.catma.de/tagset"
+      },
+      "tagset": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C",
+      "tag": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_6960AC2B-41E4-4B20-8467-011EAEA19675",
+      "properties": {
+        "system": {
+          "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": [
+            "2024-10-28T11:39:55.586+0100"
+          ],
+          "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": [
+            "NKellner"
+          ]
+        },
+        "user": {}
+      },
+      "type": "Dataset"
+    },
+    "target": {
+      "items": [
+        {
+          "source": "D_023EE3D5-8926-482C-A306-AC846BBAA528",
+          "selector": {
+            "start": 12107,
+            "end": 12111,
+            "type": "TextPositionSelector"
+          }
+        },
+        {
+          "source": "D_023EE3D5-8926-482C-A306-AC846BBAA528",
+          "selector": {
+            "start": 12147,
+            "end": 12151,
+            "type": "TextPositionSelector"
+          }
+        }
+      ],
+      "type": "List"
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": "collections/C_73B4B7BA-A0F0-4ECF-ADF2-C565DF8F5A28/annotations/CATMA_084FC94E-F333-4FBE-95C5-A4B7B4455D95",
+    "body": {
+      "@context": {
+        "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_C6B0E6E4-8224-4455-9B6B-936B1B0364A7/CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6",
+        "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_C6B0E6E4-8224-4455-9B6B-936B1B0364A7/CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF",
+        "tag": "https://www.catma.de/tag",
+        "tagset": "https://www.catma.de/tagset"
+      },
+      "tagset": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C",
+      "tag": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_C6B0E6E4-8224-4455-9B6B-936B1B0364A7",
+      "properties": {
+        "system": {
+          "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": [
+            "2024-10-28T11:40:04.340+0100"
+          ],
+          "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": [
+            "NKellner"
+          ]
+        },
+        "user": {}
+      },
+      "type": "Dataset"
+    },
+    "target": {
+      "items": [
+        {
+          "source": "D_023EE3D5-8926-482C-A306-AC846BBAA528",
+          "selector": {
+            "start": 12172,
+            "end": 12176,
+            "type": "TextPositionSelector"
+          }
+        }
+      ],
+      "type": "List"
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": "collections/C_73B4B7BA-A0F0-4ECF-ADF2-C565DF8F5A28/annotations/CATMA_E61F8BCA-8087-4014-A959-DC4040898064",
+    "body": {
+      "@context": {
+        "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_FCBC2620-4967-4A67-92BE-58BEE67BE3E5/CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6",
+        "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_FCBC2620-4967-4A67-92BE-58BEE67BE3E5/CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF",
+        "tag": "https://www.catma.de/tag",
+        "tagset": "https://www.catma.de/tagset"
+      },
+      "tagset": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C",
+      "tag": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_FCBC2620-4967-4A67-92BE-58BEE67BE3E5",
+      "properties": {
+        "system": {
+          "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": [
+            "2024-10-28T11:40:10.330+0100"
+          ],
+          "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": [
+            "NKellner"
+          ]
+        },
+        "user": {}
+      },
+      "type": "Dataset"
+    },
+    "target": {
+      "items": [
+        {
+          "source": "D_023EE3D5-8926-482C-A306-AC846BBAA528",
+          "selector": {
+            "start": 12192,
+            "end": 12195,
+            "type": "TextPositionSelector"
+          }
+        }
+      ],
+      "type": "List"
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": "collections/C_73B4B7BA-A0F0-4ECF-ADF2-C565DF8F5A28/annotations/CATMA_959B5FF6-1EAB-4B00-BE52-24B223970AA9",
+    "body": {
+      "@context": {
+        "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_C6B0E6E4-8224-4455-9B6B-936B1B0364A7/CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6",
+        "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_C6B0E6E4-8224-4455-9B6B-936B1B0364A7/CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF",
+        "tag": "https://www.catma.de/tag",
+        "tagset": "https://www.catma.de/tagset"
+      },
+      "tagset": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C",
+      "tag": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_C6B0E6E4-8224-4455-9B6B-936B1B0364A7",
+      "properties": {
+        "system": {
+          "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": [
+            "2024-10-28T11:40:19.395+0100"
+          ],
+          "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": [
+            "NKellner"
+          ]
+        },
+        "user": {}
+      },
+      "type": "Dataset"
+    },
+    "target": {
+      "items": [
+        {
+          "source": "D_023EE3D5-8926-482C-A306-AC846BBAA528",
+          "selector": {
+            "start": 12274,
+            "end": 12289,
+            "type": "TextPositionSelector"
+          }
+        }
+      ],
+      "type": "List"
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": "collections/C_73B4B7BA-A0F0-4ECF-ADF2-C565DF8F5A28/annotations/CATMA_8C058694-8401-4517-8CDA-6FBABC467BBF",
+    "body": {
+      "@context": {
+        "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_6960AC2B-41E4-4B20-8467-011EAEA19675/CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6",
+        "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_6960AC2B-41E4-4B20-8467-011EAEA19675/CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF",
+        "tag": "https://www.catma.de/tag",
+        "tagset": "https://www.catma.de/tagset"
+      },
+      "tagset": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C",
+      "tag": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_6960AC2B-41E4-4B20-8467-011EAEA19675",
+      "properties": {
+        "system": {
+          "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": [
+            "2024-10-28T11:40:28.735+0100"
+          ],
+          "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": [
+            "NKellner"
+          ]
+        },
+        "user": {}
+      },
+      "type": "Dataset"
+    },
+    "target": {
+      "items": [
+        {
+          "source": "D_023EE3D5-8926-482C-A306-AC846BBAA528",
+          "selector": {
+            "start": 12495,
+            "end": 12500,
+            "type": "TextPositionSelector"
+          }
+        }
+      ],
+      "type": "List"
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": "collections/C_73B4B7BA-A0F0-4ECF-ADF2-C565DF8F5A28/annotations/CATMA_09BC5FC3-DFB5-42E6-B86F-B0E72CA60450",
+    "body": {
+      "@context": {
+        "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_1BC82955-F113-4F00-8CD3-788094AE1D41/CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6",
+        "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_1BC82955-F113-4F00-8CD3-788094AE1D41/CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF",
+        "tag": "https://www.catma.de/tag",
+        "tagset": "https://www.catma.de/tagset"
+      },
+      "tagset": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C",
+      "tag": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_1BC82955-F113-4F00-8CD3-788094AE1D41",
+      "properties": {
+        "system": {
+          "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": [
+            "2024-10-28T11:40:34.753+0100"
+          ],
+          "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": [
+            "NKellner"
+          ]
+        },
+        "user": {}
+      },
+      "type": "Dataset"
+    },
+    "target": {
+      "items": [
+        {
+          "source": "D_023EE3D5-8926-482C-A306-AC846BBAA528",
+          "selector": {
+            "start": 12514,
+            "end": 12517,
+            "type": "TextPositionSelector"
+          }
+        }
+      ],
+      "type": "List"
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": "collections/C_73B4B7BA-A0F0-4ECF-ADF2-C565DF8F5A28/annotations/CATMA_CD9A6DB2-5F97-4EC1-901C-9D70685F49B7",
+    "body": {
+      "@context": {
+        "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_FCBC2620-4967-4A67-92BE-58BEE67BE3E5/CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6",
+        "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_FCBC2620-4967-4A67-92BE-58BEE67BE3E5/CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF",
+        "tag": "https://www.catma.de/tag",
+        "tagset": "https://www.catma.de/tagset"
+      },
+      "tagset": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C",
+      "tag": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_FCBC2620-4967-4A67-92BE-58BEE67BE3E5",
+      "properties": {
+        "system": {
+          "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": [
+            "2024-10-28T11:40:43.641+0100"
+          ],
+          "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": [
+            "NKellner"
+          ]
+        },
+        "user": {}
+      },
+      "type": "Dataset"
+    },
+    "target": {
+      "items": [
+        {
+          "source": "D_023EE3D5-8926-482C-A306-AC846BBAA528",
+          "selector": {
+            "start": 12518,
+            "end": 12520,
+            "type": "TextPositionSelector"
+          }
+        }
+      ],
+      "type": "List"
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": "collections/C_73B4B7BA-A0F0-4ECF-ADF2-C565DF8F5A28/annotations/CATMA_00F5CC3E-6670-4577-9F13-F294ACA18EBC",
+    "body": {
+      "@context": {
+        "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_296BAC6C-7F06-47A9-A6F4-DE28800A8E24/CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6",
+        "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_296BAC6C-7F06-47A9-A6F4-DE28800A8E24/CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF",
+        "tag": "https://www.catma.de/tag",
+        "tagset": "https://www.catma.de/tagset"
+      },
+      "tagset": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C",
+      "tag": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_296BAC6C-7F06-47A9-A6F4-DE28800A8E24",
+      "properties": {
+        "system": {
+          "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": [
+            "2024-10-28T11:40:53.035+0100"
+          ],
+          "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": [
+            "NKellner"
+          ]
+        },
+        "user": {}
+      },
+      "type": "Dataset"
+    },
+    "target": {
+      "items": [
+        {
+          "source": "D_023EE3D5-8926-482C-A306-AC846BBAA528",
+          "selector": {
+            "start": 12611,
+            "end": 12618,
+            "type": "TextPositionSelector"
+          }
+        }
+      ],
+      "type": "List"
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": "collections/C_73B4B7BA-A0F0-4ECF-ADF2-C565DF8F5A28/annotations/CATMA_2125DAC8-A8B8-4872-BBC5-09C85502F89C",
+    "body": {
+      "@context": {
+        "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_D99C06FB-99AF-4166-81BB-23B1AEBC70CB/CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6",
+        "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_D99C06FB-99AF-4166-81BB-23B1AEBC70CB/CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF",
+        "tag": "https://www.catma.de/tag",
+        "tagset": "https://www.catma.de/tagset"
+      },
+      "tagset": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C",
+      "tag": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_D99C06FB-99AF-4166-81BB-23B1AEBC70CB",
+      "properties": {
+        "system": {
+          "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": [
+            "2024-10-28T11:41:16.595+0100"
+          ],
+          "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": [
+            "NKellner"
+          ]
+        },
+        "user": {}
+      },
+      "type": "Dataset"
+    },
+    "target": {
+      "items": [
+        {
+          "source": "D_023EE3D5-8926-482C-A306-AC846BBAA528",
+          "selector": {
+            "start": 12677,
+            "end": 12679,
+            "type": "TextPositionSelector"
+          }
+        }
+      ],
+      "type": "List"
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": "collections/C_73B4B7BA-A0F0-4ECF-ADF2-C565DF8F5A28/annotations/CATMA_A87D01A0-ED11-4BEF-AF53-F78C90C2FDE2",
+    "body": {
+      "@context": {
+        "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_6960AC2B-41E4-4B20-8467-011EAEA19675/CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6",
+        "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_6960AC2B-41E4-4B20-8467-011EAEA19675/CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF",
+        "tag": "https://www.catma.de/tag",
+        "tagset": "https://www.catma.de/tagset"
+      },
+      "tagset": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C",
+      "tag": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_6960AC2B-41E4-4B20-8467-011EAEA19675",
+      "properties": {
+        "system": {
+          "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": [
+            "2024-10-28T11:41:31.004+0100"
+          ],
+          "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": [
+            "NKellner"
+          ]
+        },
+        "user": {}
+      },
+      "type": "Dataset"
+    },
+    "target": {
+      "items": [
+        {
+          "source": "D_023EE3D5-8926-482C-A306-AC846BBAA528",
+          "selector": {
+            "start": 12740,
+            "end": 12749,
+            "type": "TextPositionSelector"
+          }
+        }
+      ],
+      "type": "List"
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": "collections/C_73B4B7BA-A0F0-4ECF-ADF2-C565DF8F5A28/annotations/CATMA_1890978E-CF4B-46DD-ADB2-035723812077",
+    "body": {
+      "@context": {
+        "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_296BAC6C-7F06-47A9-A6F4-DE28800A8E24/CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6",
+        "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_296BAC6C-7F06-47A9-A6F4-DE28800A8E24/CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF",
+        "tag": "https://www.catma.de/tag",
+        "tagset": "https://www.catma.de/tagset"
+      },
+      "tagset": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C",
+      "tag": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_296BAC6C-7F06-47A9-A6F4-DE28800A8E24",
+      "properties": {
+        "system": {
+          "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": [
+            "2024-10-28T11:42:59.391+0100"
+          ],
+          "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": [
+            "NKellner"
+          ]
+        },
+        "user": {}
+      },
+      "type": "Dataset"
+    },
+    "target": {
+      "items": [
+        {
+          "source": "D_023EE3D5-8926-482C-A306-AC846BBAA528",
+          "selector": {
+            "start": 12775,
+            "end": 12781,
+            "type": "TextPositionSelector"
+          }
+        },
+        {
+          "source": "D_023EE3D5-8926-482C-A306-AC846BBAA528",
+          "selector": {
+            "start": 12786,
+            "end": 12788,
+            "type": "TextPositionSelector"
+          }
+        }
+      ],
+      "type": "List"
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": "collections/C_73B4B7BA-A0F0-4ECF-ADF2-C565DF8F5A28/annotations/CATMA_C2A797BC-8766-4926-BD20-A13DEE614C10",
+    "body": {
+      "@context": {
+        "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_6931398D-8471-4CC2-86BE-0364AC24F170/CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6",
+        "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_6931398D-8471-4CC2-86BE-0364AC24F170/CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF",
+        "tag": "https://www.catma.de/tag",
+        "tagset": "https://www.catma.de/tagset"
+      },
+      "tagset": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C",
+      "tag": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_6931398D-8471-4CC2-86BE-0364AC24F170",
+      "properties": {
+        "system": {
+          "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": [
+            "2024-10-28T11:43:10.958+0100"
+          ],
+          "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": [
+            "NKellner"
+          ]
+        },
+        "user": {}
+      },
+      "type": "Dataset"
+    },
+    "target": {
+      "items": [
+        {
+          "source": "D_023EE3D5-8926-482C-A306-AC846BBAA528",
+          "selector": {
+            "start": 12795,
+            "end": 12799,
+            "type": "TextPositionSelector"
+          }
+        }
+      ],
+      "type": "List"
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": "collections/C_73B4B7BA-A0F0-4ECF-ADF2-C565DF8F5A28/annotations/CATMA_F35CDCBC-9B63-49AE-9F96-08400064497B",
+    "body": {
+      "@context": {
+        "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_D99C06FB-99AF-4166-81BB-23B1AEBC70CB/CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6",
+        "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_D99C06FB-99AF-4166-81BB-23B1AEBC70CB/CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF",
+        "tag": "https://www.catma.de/tag",
+        "tagset": "https://www.catma.de/tagset"
+      },
+      "tagset": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C",
+      "tag": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_D99C06FB-99AF-4166-81BB-23B1AEBC70CB",
+      "properties": {
+        "system": {
+          "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": [
+            "2024-10-28T11:43:15.594+0100"
+          ],
+          "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": [
+            "NKellner"
+          ]
+        },
+        "user": {}
+      },
+      "type": "Dataset"
+    },
+    "target": {
+      "items": [
+        {
+          "source": "D_023EE3D5-8926-482C-A306-AC846BBAA528",
+          "selector": {
+            "start": 12838,
+            "end": 12840,
+            "type": "TextPositionSelector"
+          }
+        }
+      ],
+      "type": "List"
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": "collections/C_73B4B7BA-A0F0-4ECF-ADF2-C565DF8F5A28/annotations/CATMA_4EF017A0-C78A-4B62-B739-66017EB75CDA",
+    "body": {
+      "@context": {
+        "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_D99C06FB-99AF-4166-81BB-23B1AEBC70CB/CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6",
+        "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_D99C06FB-99AF-4166-81BB-23B1AEBC70CB/CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF",
+        "tag": "https://www.catma.de/tag",
+        "tagset": "https://www.catma.de/tagset"
+      },
+      "tagset": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C",
+      "tag": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_D99C06FB-99AF-4166-81BB-23B1AEBC70CB",
+      "properties": {
+        "system": {
+          "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": [
+            "2024-10-28T11:43:24.495+0100"
+          ],
+          "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": [
+            "NKellner"
+          ]
+        },
+        "user": {}
+      },
+      "type": "Dataset"
+    },
+    "target": {
+      "items": [
+        {
+          "source": "D_023EE3D5-8926-482C-A306-AC846BBAA528",
+          "selector": {
+            "start": 12931,
+            "end": 12945,
+            "type": "TextPositionSelector"
+          }
+        }
+      ],
+      "type": "List"
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": "collections/C_73B4B7BA-A0F0-4ECF-ADF2-C565DF8F5A28/annotations/CATMA_73B15DFD-2951-43D7-B3F5-0C7884E51A02",
+    "body": {
+      "@context": {
+        "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_C6B0E6E4-8224-4455-9B6B-936B1B0364A7/CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6",
+        "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_C6B0E6E4-8224-4455-9B6B-936B1B0364A7/CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF",
+        "tag": "https://www.catma.de/tag",
+        "tagset": "https://www.catma.de/tagset"
+      },
+      "tagset": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C",
+      "tag": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_C6B0E6E4-8224-4455-9B6B-936B1B0364A7",
+      "properties": {
+        "system": {
+          "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": [
+            "2024-10-28T11:43:33.565+0100"
+          ],
+          "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": [
+            "NKellner"
+          ]
+        },
+        "user": {}
+      },
+      "type": "Dataset"
+    },
+    "target": {
+      "items": [
+        {
+          "source": "D_023EE3D5-8926-482C-A306-AC846BBAA528",
+          "selector": {
+            "start": 12959,
+            "end": 12969,
+            "type": "TextPositionSelector"
+          }
+        }
+      ],
+      "type": "List"
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": "collections/C_73B4B7BA-A0F0-4ECF-ADF2-C565DF8F5A28/annotations/CATMA_D5D1DD8E-5878-4A7E-ADBD-010F712DCCF0",
+    "body": {
+      "@context": {
+        "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_C6B0E6E4-8224-4455-9B6B-936B1B0364A7/CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6",
+        "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_C6B0E6E4-8224-4455-9B6B-936B1B0364A7/CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF",
+        "tag": "https://www.catma.de/tag",
+        "tagset": "https://www.catma.de/tagset"
+      },
+      "tagset": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C",
+      "tag": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_C6B0E6E4-8224-4455-9B6B-936B1B0364A7",
+      "properties": {
+        "system": {
+          "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": [
+            "2024-10-28T11:43:43.786+0100"
+          ],
+          "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": [
+            "NKellner"
+          ]
+        },
+        "user": {}
+      },
+      "type": "Dataset"
+    },
+    "target": {
+      "items": [
+        {
+          "source": "D_023EE3D5-8926-482C-A306-AC846BBAA528",
+          "selector": {
+            "start": 13024,
+            "end": 13029,
+            "type": "TextPositionSelector"
+          }
+        }
+      ],
+      "type": "List"
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": "collections/C_73B4B7BA-A0F0-4ECF-ADF2-C565DF8F5A28/annotations/CATMA_222C957A-7C19-4C71-A717-7FDDF0E85227",
+    "body": {
+      "@context": {
+        "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_6960AC2B-41E4-4B20-8467-011EAEA19675/CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6",
+        "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_6960AC2B-41E4-4B20-8467-011EAEA19675/CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF",
+        "tag": "https://www.catma.de/tag",
+        "tagset": "https://www.catma.de/tagset"
+      },
+      "tagset": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C",
+      "tag": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_6960AC2B-41E4-4B20-8467-011EAEA19675",
+      "properties": {
+        "system": {
+          "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": [
+            "2024-10-28T11:43:54.925+0100"
+          ],
+          "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": [
+            "NKellner"
+          ]
+        },
+        "user": {}
+      },
+      "type": "Dataset"
+    },
+    "target": {
+      "items": [
+        {
+          "source": "D_023EE3D5-8926-482C-A306-AC846BBAA528",
+          "selector": {
+            "start": 13037,
+            "end": 13041,
+            "type": "TextPositionSelector"
+          }
+        },
+        {
+          "source": "D_023EE3D5-8926-482C-A306-AC846BBAA528",
+          "selector": {
+            "start": 13056,
+            "end": 13060,
+            "type": "TextPositionSelector"
+          }
+        }
+      ],
+      "type": "List"
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": "collections/C_73B4B7BA-A0F0-4ECF-ADF2-C565DF8F5A28/annotations/CATMA_2A801D04-1409-4480-80BF-D390FD2D308C",
+    "body": {
+      "@context": {
+        "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_C6B0E6E4-8224-4455-9B6B-936B1B0364A7/CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6",
+        "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_C6B0E6E4-8224-4455-9B6B-936B1B0364A7/CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF",
+        "tag": "https://www.catma.de/tag",
+        "tagset": "https://www.catma.de/tagset"
+      },
+      "tagset": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C",
+      "tag": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_C6B0E6E4-8224-4455-9B6B-936B1B0364A7",
+      "properties": {
+        "system": {
+          "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": [
+            "2024-10-28T11:44:04.865+0100"
+          ],
+          "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": [
+            "NKellner"
+          ]
+        },
+        "user": {}
+      },
+      "type": "Dataset"
+    },
+    "target": {
+      "items": [
+        {
+          "source": "D_023EE3D5-8926-482C-A306-AC846BBAA528",
+          "selector": {
+            "start": 13073,
+            "end": 13087,
+            "type": "TextPositionSelector"
+          }
+        }
+      ],
+      "type": "List"
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": "collections/C_73B4B7BA-A0F0-4ECF-ADF2-C565DF8F5A28/annotations/CATMA_484D8CBF-3E26-40A3-84DA-573C39E5CF52",
+    "body": {
+      "@context": {
+        "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_D99C06FB-99AF-4166-81BB-23B1AEBC70CB/CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6",
+        "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_D99C06FB-99AF-4166-81BB-23B1AEBC70CB/CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF",
+        "tag": "https://www.catma.de/tag",
+        "tagset": "https://www.catma.de/tagset"
+      },
+      "tagset": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C",
+      "tag": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_D99C06FB-99AF-4166-81BB-23B1AEBC70CB",
+      "properties": {
+        "system": {
+          "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": [
+            "2024-10-28T11:44:11.978+0100"
+          ],
+          "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": [
+            "NKellner"
+          ]
+        },
+        "user": {}
+      },
+      "type": "Dataset"
+    },
+    "target": {
+      "items": [
+        {
+          "source": "D_023EE3D5-8926-482C-A306-AC846BBAA528",
+          "selector": {
+            "start": 13120,
+            "end": 13123,
+            "type": "TextPositionSelector"
+          }
+        }
+      ],
+      "type": "List"
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": "collections/C_73B4B7BA-A0F0-4ECF-ADF2-C565DF8F5A28/annotations/CATMA_F42DCD40-E33F-46EA-BF64-D06FFC23519A",
+    "body": {
+      "@context": {
+        "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_296BAC6C-7F06-47A9-A6F4-DE28800A8E24/CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6",
+        "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_296BAC6C-7F06-47A9-A6F4-DE28800A8E24/CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF",
+        "tag": "https://www.catma.de/tag",
+        "tagset": "https://www.catma.de/tagset"
+      },
+      "tagset": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C",
+      "tag": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_296BAC6C-7F06-47A9-A6F4-DE28800A8E24",
+      "properties": {
+        "system": {
+          "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": [
+            "2024-10-28T11:45:05.393+0100"
+          ],
+          "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": [
+            "NKellner"
+          ]
+        },
+        "user": {}
+      },
+      "type": "Dataset"
+    },
+    "target": {
+      "items": [
+        {
+          "source": "D_023EE3D5-8926-482C-A306-AC846BBAA528",
+          "selector": {
+            "start": 13165,
+            "end": 13174,
+            "type": "TextPositionSelector"
+          }
+        }
+      ],
+      "type": "List"
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": "collections/C_73B4B7BA-A0F0-4ECF-ADF2-C565DF8F5A28/annotations/CATMA_19C13FC2-AC5A-41BE-8F01-5D4396D58030",
+    "body": {
+      "@context": {
+        "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_D99C06FB-99AF-4166-81BB-23B1AEBC70CB/CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6",
+        "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_D99C06FB-99AF-4166-81BB-23B1AEBC70CB/CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF",
+        "tag": "https://www.catma.de/tag",
+        "tagset": "https://www.catma.de/tagset"
+      },
+      "tagset": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C",
+      "tag": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_D99C06FB-99AF-4166-81BB-23B1AEBC70CB",
+      "properties": {
+        "system": {
+          "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": [
+            "2024-10-28T11:45:13.985+0100"
+          ],
+          "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": [
+            "NKellner"
+          ]
+        },
+        "user": {}
+      },
+      "type": "Dataset"
+    },
+    "target": {
+      "items": [
+        {
+          "source": "D_023EE3D5-8926-482C-A306-AC846BBAA528",
+          "selector": {
+            "start": 13347,
+            "end": 13350,
+            "type": "TextPositionSelector"
+          }
+        }
+      ],
+      "type": "List"
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": "collections/C_73B4B7BA-A0F0-4ECF-ADF2-C565DF8F5A28/annotations/CATMA_7EBFB166-3422-422C-AF95-F4D035E97260",
+    "body": {
+      "@context": {
+        "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_296BAC6C-7F06-47A9-A6F4-DE28800A8E24/CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6",
+        "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_296BAC6C-7F06-47A9-A6F4-DE28800A8E24/CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF",
+        "tag": "https://www.catma.de/tag",
+        "tagset": "https://www.catma.de/tagset"
+      },
+      "tagset": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C",
+      "tag": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_296BAC6C-7F06-47A9-A6F4-DE28800A8E24",
+      "properties": {
+        "system": {
+          "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": [
+            "2024-10-28T11:45:19.664+0100"
+          ],
+          "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": [
+            "NKellner"
+          ]
+        },
+        "user": {}
+      },
+      "type": "Dataset"
+    },
+    "target": {
+      "items": [
+        {
+          "source": "D_023EE3D5-8926-482C-A306-AC846BBAA528",
+          "selector": {
+            "start": 13502,
+            "end": 13512,
+            "type": "TextPositionSelector"
+          }
+        }
+      ],
+      "type": "List"
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": "collections/C_73B4B7BA-A0F0-4ECF-ADF2-C565DF8F5A28/annotations/CATMA_36CEF2F3-F799-46C2-A813-86AB9A8B59B9",
+    "body": {
+      "@context": {
+        "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_296BAC6C-7F06-47A9-A6F4-DE28800A8E24/CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6",
+        "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_296BAC6C-7F06-47A9-A6F4-DE28800A8E24/CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF",
+        "tag": "https://www.catma.de/tag",
+        "tagset": "https://www.catma.de/tagset"
+      },
+      "tagset": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C",
+      "tag": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_296BAC6C-7F06-47A9-A6F4-DE28800A8E24",
+      "properties": {
+        "system": {
+          "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": [
+            "2024-10-28T11:45:32.330+0100"
+          ],
+          "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": [
+            "NKellner"
+          ]
+        },
+        "user": {}
+      },
+      "type": "Dataset"
+    },
+    "target": {
+      "items": [
+        {
+          "source": "D_023EE3D5-8926-482C-A306-AC846BBAA528",
+          "selector": {
+            "start": 13643,
+            "end": 13649,
+            "type": "TextPositionSelector"
+          }
+        }
+      ],
+      "type": "List"
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": "collections/C_73B4B7BA-A0F0-4ECF-ADF2-C565DF8F5A28/annotations/CATMA_C9BED484-9B53-4224-9380-94050634CDAB",
+    "body": {
+      "@context": {
+        "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_DDDC29E7-93EE-46A3-95C8-36B564FAEDB9/CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6",
+        "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_DDDC29E7-93EE-46A3-95C8-36B564FAEDB9/CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF",
+        "tag": "https://www.catma.de/tag",
+        "tagset": "https://www.catma.de/tagset"
+      },
+      "tagset": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C",
+      "tag": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_DDDC29E7-93EE-46A3-95C8-36B564FAEDB9",
+      "properties": {
+        "system": {
+          "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": [
+            "2024-10-28T11:45:37.069+0100"
+          ],
+          "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": [
+            "NKellner"
+          ]
+        },
+        "user": {}
+      },
+      "type": "Dataset"
+    },
+    "target": {
+      "items": [
+        {
+          "source": "D_023EE3D5-8926-482C-A306-AC846BBAA528",
+          "selector": {
+            "start": 13606,
+            "end": 13609,
+            "type": "TextPositionSelector"
+          }
+        }
+      ],
+      "type": "List"
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": "collections/C_73B4B7BA-A0F0-4ECF-ADF2-C565DF8F5A28/annotations/CATMA_5DFB9684-FFFD-4108-9DBA-E6C175F7D0E3",
+    "body": {
+      "@context": {
+        "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_296BAC6C-7F06-47A9-A6F4-DE28800A8E24/CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6",
+        "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_296BAC6C-7F06-47A9-A6F4-DE28800A8E24/CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF",
+        "tag": "https://www.catma.de/tag",
+        "tagset": "https://www.catma.de/tagset"
+      },
+      "tagset": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C",
+      "tag": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_296BAC6C-7F06-47A9-A6F4-DE28800A8E24",
+      "properties": {
+        "system": {
+          "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": [
+            "2024-10-28T11:46:15.155+0100"
+          ],
+          "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": [
+            "NKellner"
+          ]
+        },
+        "user": {}
+      },
+      "type": "Dataset"
+    },
+    "target": {
+      "items": [
+        {
+          "source": "D_023EE3D5-8926-482C-A306-AC846BBAA528",
+          "selector": {
+            "start": 13655,
+            "end": 13663,
+            "type": "TextPositionSelector"
+          }
+        }
+      ],
+      "type": "List"
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": "collections/C_73B4B7BA-A0F0-4ECF-ADF2-C565DF8F5A28/annotations/CATMA_3DCA17A6-F90F-400C-9929-BC48092FE91E",
+    "body": {
+      "@context": {
+        "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_C6B0E6E4-8224-4455-9B6B-936B1B0364A7/CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6",
+        "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_C6B0E6E4-8224-4455-9B6B-936B1B0364A7/CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF",
+        "tag": "https://www.catma.de/tag",
+        "tagset": "https://www.catma.de/tagset"
+      },
+      "tagset": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C",
+      "tag": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_C6B0E6E4-8224-4455-9B6B-936B1B0364A7",
+      "properties": {
+        "system": {
+          "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": [
+            "2024-10-28T11:46:25.684+0100"
+          ],
+          "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": [
+            "NKellner"
+          ]
+        },
+        "user": {}
+      },
+      "type": "Dataset"
+    },
+    "target": {
+      "items": [
+        {
+          "source": "D_023EE3D5-8926-482C-A306-AC846BBAA528",
+          "selector": {
+            "start": 13774,
+            "end": 13781,
+            "type": "TextPositionSelector"
+          }
+        }
+      ],
+      "type": "List"
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": "collections/C_73B4B7BA-A0F0-4ECF-ADF2-C565DF8F5A28/annotations/CATMA_9380F569-3F7B-4506-89E6-951B2D37031F",
+    "body": {
+      "@context": {
+        "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_6960AC2B-41E4-4B20-8467-011EAEA19675/CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6",
+        "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_6960AC2B-41E4-4B20-8467-011EAEA19675/CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF",
+        "tag": "https://www.catma.de/tag",
+        "tagset": "https://www.catma.de/tagset"
+      },
+      "tagset": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C",
+      "tag": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_6960AC2B-41E4-4B20-8467-011EAEA19675",
+      "properties": {
+        "system": {
+          "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": [
+            "2024-10-28T11:46:52.338+0100"
+          ],
+          "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": [
+            "NKellner"
+          ]
+        },
+        "user": {}
+      },
+      "type": "Dataset"
+    },
+    "target": {
+      "items": [
+        {
+          "source": "D_023EE3D5-8926-482C-A306-AC846BBAA528",
+          "selector": {
+            "start": 13742,
+            "end": 13746,
+            "type": "TextPositionSelector"
+          }
+        }
+      ],
+      "type": "List"
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": "collections/C_73B4B7BA-A0F0-4ECF-ADF2-C565DF8F5A28/annotations/CATMA_17F90113-F669-42ED-B87F-BA78BD1D25A7",
+    "body": {
+      "@context": {
+        "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_FCBC2620-4967-4A67-92BE-58BEE67BE3E5/CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6",
+        "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_FCBC2620-4967-4A67-92BE-58BEE67BE3E5/CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF",
+        "tag": "https://www.catma.de/tag",
+        "tagset": "https://www.catma.de/tagset"
+      },
+      "tagset": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C",
+      "tag": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_FCBC2620-4967-4A67-92BE-58BEE67BE3E5",
+      "properties": {
+        "system": {
+          "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": [
+            "2024-10-28T11:47:14.115+0100"
+          ],
+          "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": [
+            "NKellner"
+          ]
+        },
+        "user": {}
+      },
+      "type": "Dataset"
+    },
+    "target": {
+      "items": [
+        {
+          "source": "D_023EE3D5-8926-482C-A306-AC846BBAA528",
+          "selector": {
+            "start": 13837,
+            "end": 13840,
+            "type": "TextPositionSelector"
+          }
+        }
+      ],
+      "type": "List"
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": "collections/C_73B4B7BA-A0F0-4ECF-ADF2-C565DF8F5A28/annotations/CATMA_E88683D1-B879-4A73-83CB-76C6F4C699C0",
+    "body": {
+      "@context": {
+        "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_6960AC2B-41E4-4B20-8467-011EAEA19675/CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6",
+        "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_6960AC2B-41E4-4B20-8467-011EAEA19675/CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF",
+        "tag": "https://www.catma.de/tag",
+        "tagset": "https://www.catma.de/tagset"
+      },
+      "tagset": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C",
+      "tag": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_6960AC2B-41E4-4B20-8467-011EAEA19675",
+      "properties": {
+        "system": {
+          "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": [
+            "2024-10-28T11:47:21.866+0100"
+          ],
+          "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": [
+            "NKellner"
+          ]
+        },
+        "user": {}
+      },
+      "type": "Dataset"
+    },
+    "target": {
+      "items": [
+        {
+          "source": "D_023EE3D5-8926-482C-A306-AC846BBAA528",
+          "selector": {
+            "start": 13902,
+            "end": 13906,
+            "type": "TextPositionSelector"
+          }
+        }
+      ],
+      "type": "List"
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": "collections/C_73B4B7BA-A0F0-4ECF-ADF2-C565DF8F5A28/annotations/CATMA_6C18BC81-6EC9-4961-B665-E8E983DA3A9E",
+    "body": {
+      "@context": {
+        "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_6960AC2B-41E4-4B20-8467-011EAEA19675/CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6",
+        "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_6960AC2B-41E4-4B20-8467-011EAEA19675/CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF",
+        "tag": "https://www.catma.de/tag",
+        "tagset": "https://www.catma.de/tagset"
+      },
+      "tagset": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C",
+      "tag": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_6960AC2B-41E4-4B20-8467-011EAEA19675",
+      "properties": {
+        "system": {
+          "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": [
+            "2024-10-28T11:47:25.769+0100"
+          ],
+          "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": [
+            "NKellner"
+          ]
+        },
+        "user": {}
+      },
+      "type": "Dataset"
+    },
+    "target": {
+      "items": [
+        {
+          "source": "D_023EE3D5-8926-482C-A306-AC846BBAA528",
+          "selector": {
+            "start": 13921,
+            "end": 13929,
+            "type": "TextPositionSelector"
+          }
+        }
+      ],
+      "type": "List"
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": "collections/C_73B4B7BA-A0F0-4ECF-ADF2-C565DF8F5A28/annotations/CATMA_793C0241-5CF2-4366-8968-16C5FDFFB64D",
+    "body": {
+      "@context": {
+        "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_E9859436-44D4-467D-8196-060A02BD0D56/CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6",
+        "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_E9859436-44D4-467D-8196-060A02BD0D56/CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF",
+        "tag": "https://www.catma.de/tag",
+        "tagset": "https://www.catma.de/tagset"
+      },
+      "tagset": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C",
+      "tag": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_E9859436-44D4-467D-8196-060A02BD0D56",
+      "properties": {
+        "system": {
+          "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": [
+            "2024-10-28T11:47:30.907+0100"
+          ],
+          "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": [
+            "NKellner"
+          ]
+        },
+        "user": {}
+      },
+      "type": "Dataset"
+    },
+    "target": {
+      "items": [
+        {
+          "source": "D_023EE3D5-8926-482C-A306-AC846BBAA528",
+          "selector": {
+            "start": 14038,
+            "end": 14044,
+            "type": "TextPositionSelector"
+          }
+        }
+      ],
+      "type": "List"
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": "collections/C_73B4B7BA-A0F0-4ECF-ADF2-C565DF8F5A28/annotations/CATMA_FDC7DF9F-292A-42FC-B1B2-627CAACB89D4",
+    "body": {
+      "@context": {
+        "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_D99C06FB-99AF-4166-81BB-23B1AEBC70CB/CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6",
+        "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_D99C06FB-99AF-4166-81BB-23B1AEBC70CB/CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF",
+        "tag": "https://www.catma.de/tag",
+        "tagset": "https://www.catma.de/tagset"
+      },
+      "tagset": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C",
+      "tag": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_D99C06FB-99AF-4166-81BB-23B1AEBC70CB",
+      "properties": {
+        "system": {
+          "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": [
+            "2024-10-28T11:47:35.219+0100"
+          ],
+          "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": [
+            "NKellner"
+          ]
+        },
+        "user": {}
+      },
+      "type": "Dataset"
+    },
+    "target": {
+      "items": [
+        {
+          "source": "D_023EE3D5-8926-482C-A306-AC846BBAA528",
+          "selector": {
+            "start": 14106,
+            "end": 14108,
+            "type": "TextPositionSelector"
+          }
+        }
+      ],
+      "type": "List"
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": "collections/C_73B4B7BA-A0F0-4ECF-ADF2-C565DF8F5A28/annotations/CATMA_1F36CC39-6560-4A23-8AE9-206C4D99DB31",
+    "body": {
+      "@context": {
+        "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_1BC82955-F113-4F00-8CD3-788094AE1D41/CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6",
+        "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_1BC82955-F113-4F00-8CD3-788094AE1D41/CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF",
+        "tag": "https://www.catma.de/tag",
+        "tagset": "https://www.catma.de/tagset"
+      },
+      "tagset": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C",
+      "tag": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_1BC82955-F113-4F00-8CD3-788094AE1D41",
+      "properties": {
+        "system": {
+          "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": [
+            "2024-10-28T11:47:44.214+0100"
+          ],
+          "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": [
+            "NKellner"
+          ]
+        },
+        "user": {}
+      },
+      "type": "Dataset"
+    },
+    "target": {
+      "items": [
+        {
+          "source": "D_023EE3D5-8926-482C-A306-AC846BBAA528",
+          "selector": {
+            "start": 14230,
+            "end": 14238,
+            "type": "TextPositionSelector"
+          }
+        }
+      ],
+      "type": "List"
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": "collections/C_73B4B7BA-A0F0-4ECF-ADF2-C565DF8F5A28/annotations/CATMA_994C62B5-2F34-41C2-B9CB-1C01E9855265",
+    "body": {
+      "@context": {
+        "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_C6B0E6E4-8224-4455-9B6B-936B1B0364A7/CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6",
+        "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_C6B0E6E4-8224-4455-9B6B-936B1B0364A7/CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF",
+        "tag": "https://www.catma.de/tag",
+        "tagset": "https://www.catma.de/tagset"
+      },
+      "tagset": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C",
+      "tag": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_C6B0E6E4-8224-4455-9B6B-936B1B0364A7",
+      "properties": {
+        "system": {
+          "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": [
+            "2024-10-28T12:05:45.131+0100"
+          ],
+          "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": [
+            "NKellner"
+          ]
+        },
+        "user": {}
+      },
+      "type": "Dataset"
+    },
+    "target": {
+      "items": [
+        {
+          "source": "D_023EE3D5-8926-482C-A306-AC846BBAA528",
+          "selector": {
+            "start": 14255,
+            "end": 14261,
+            "type": "TextPositionSelector"
+          }
+        },
+        {
+          "source": "D_023EE3D5-8926-482C-A306-AC846BBAA528",
+          "selector": {
+            "start": 14279,
+            "end": 14282,
+            "type": "TextPositionSelector"
+          }
+        }
+      ],
+      "type": "List"
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": "collections/C_73B4B7BA-A0F0-4ECF-ADF2-C565DF8F5A28/annotations/CATMA_26E4A20E-96FA-446C-969C-423C468A4617",
+    "body": {
+      "@context": {
+        "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_C6B0E6E4-8224-4455-9B6B-936B1B0364A7/CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6",
+        "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_C6B0E6E4-8224-4455-9B6B-936B1B0364A7/CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF",
+        "tag": "https://www.catma.de/tag",
+        "tagset": "https://www.catma.de/tagset"
+      },
+      "tagset": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C",
+      "tag": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_C6B0E6E4-8224-4455-9B6B-936B1B0364A7",
+      "properties": {
+        "system": {
+          "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": [
+            "2024-10-28T12:05:59.437+0100"
+          ],
+          "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": [
+            "NKellner"
+          ]
+        },
+        "user": {}
+      },
+      "type": "Dataset"
+    },
+    "target": {
+      "items": [
+        {
+          "source": "D_023EE3D5-8926-482C-A306-AC846BBAA528",
+          "selector": {
+            "start": 14287,
+            "end": 14292,
+            "type": "TextPositionSelector"
+          }
+        }
+      ],
+      "type": "List"
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": "collections/C_73B4B7BA-A0F0-4ECF-ADF2-C565DF8F5A28/annotations/CATMA_D7CD7384-407C-4C03-A7EF-89F9C7BB1959",
+    "body": {
+      "@context": {
+        "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_FCBC2620-4967-4A67-92BE-58BEE67BE3E5/CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6",
+        "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_FCBC2620-4967-4A67-92BE-58BEE67BE3E5/CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF",
+        "tag": "https://www.catma.de/tag",
+        "tagset": "https://www.catma.de/tagset"
+      },
+      "tagset": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C",
+      "tag": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_FCBC2620-4967-4A67-92BE-58BEE67BE3E5",
+      "properties": {
+        "system": {
+          "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": [
+            "2024-10-28T12:06:03.878+0100"
+          ],
+          "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": [
+            "NKellner"
+          ]
+        },
+        "user": {}
+      },
+      "type": "Dataset"
+    },
+    "target": {
+      "items": [
+        {
+          "source": "D_023EE3D5-8926-482C-A306-AC846BBAA528",
+          "selector": {
+            "start": 14297,
+            "end": 14300,
+            "type": "TextPositionSelector"
+          }
+        }
+      ],
+      "type": "List"
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": "collections/C_73B4B7BA-A0F0-4ECF-ADF2-C565DF8F5A28/annotations/CATMA_11B571F7-9B56-473C-8485-785EECD6E0AA",
+    "body": {
+      "@context": {
+        "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_D99C06FB-99AF-4166-81BB-23B1AEBC70CB/CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6",
+        "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_D99C06FB-99AF-4166-81BB-23B1AEBC70CB/CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF",
+        "tag": "https://www.catma.de/tag",
+        "tagset": "https://www.catma.de/tagset"
+      },
+      "tagset": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C",
+      "tag": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_D99C06FB-99AF-4166-81BB-23B1AEBC70CB",
+      "properties": {
+        "system": {
+          "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": [
+            "2024-10-28T12:06:08.014+0100"
+          ],
+          "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": [
+            "NKellner"
+          ]
+        },
+        "user": {}
+      },
+      "type": "Dataset"
+    },
+    "target": {
+      "items": [
+        {
+          "source": "D_023EE3D5-8926-482C-A306-AC846BBAA528",
+          "selector": {
+            "start": 14340,
+            "end": 14342,
+            "type": "TextPositionSelector"
+          }
+        }
+      ],
+      "type": "List"
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": "collections/C_73B4B7BA-A0F0-4ECF-ADF2-C565DF8F5A28/annotations/CATMA_8A0A3D88-7040-4597-B8DF-6AA14175BCD2",
+    "body": {
+      "@context": {
+        "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_C6B0E6E4-8224-4455-9B6B-936B1B0364A7/CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6",
+        "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_C6B0E6E4-8224-4455-9B6B-936B1B0364A7/CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF",
+        "tag": "https://www.catma.de/tag",
+        "tagset": "https://www.catma.de/tagset"
+      },
+      "tagset": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C",
+      "tag": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_C6B0E6E4-8224-4455-9B6B-936B1B0364A7",
+      "properties": {
+        "system": {
+          "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": [
+            "2024-10-28T12:06:13.870+0100"
+          ],
+          "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": [
+            "NKellner"
+          ]
+        },
+        "user": {}
+      },
+      "type": "Dataset"
+    },
+    "target": {
+      "items": [
+        {
+          "source": "D_023EE3D5-8926-482C-A306-AC846BBAA528",
+          "selector": {
+            "start": 14352,
+            "end": 14365,
+            "type": "TextPositionSelector"
+          }
+        }
+      ],
+      "type": "List"
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": "collections/C_73B4B7BA-A0F0-4ECF-ADF2-C565DF8F5A28/annotations/CATMA_83B30A31-78A3-4BBD-82C6-E284D5D0954C",
+    "body": {
+      "@context": {
+        "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_296BAC6C-7F06-47A9-A6F4-DE28800A8E24/CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6",
+        "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_296BAC6C-7F06-47A9-A6F4-DE28800A8E24/CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF",
+        "tag": "https://www.catma.de/tag",
+        "tagset": "https://www.catma.de/tagset"
+      },
+      "tagset": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C",
+      "tag": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_296BAC6C-7F06-47A9-A6F4-DE28800A8E24",
+      "properties": {
+        "system": {
+          "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": [
+            "2024-10-28T12:06:21.527+0100"
+          ],
+          "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": [
+            "NKellner"
+          ]
+        },
+        "user": {}
+      },
+      "type": "Dataset"
+    },
+    "target": {
+      "items": [
+        {
+          "source": "D_023EE3D5-8926-482C-A306-AC846BBAA528",
+          "selector": {
+            "start": 14480,
+            "end": 14487,
+            "type": "TextPositionSelector"
+          }
+        }
+      ],
+      "type": "List"
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": "collections/C_73B4B7BA-A0F0-4ECF-ADF2-C565DF8F5A28/annotations/CATMA_BD8C7922-3C86-4DDC-BB4F-3F180CE2A5BF",
+    "body": {
+      "@context": {
+        "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_D99C06FB-99AF-4166-81BB-23B1AEBC70CB/CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6",
+        "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_D99C06FB-99AF-4166-81BB-23B1AEBC70CB/CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF",
+        "tag": "https://www.catma.de/tag",
+        "tagset": "https://www.catma.de/tagset"
+      },
+      "tagset": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C",
+      "tag": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_D99C06FB-99AF-4166-81BB-23B1AEBC70CB",
+      "properties": {
+        "system": {
+          "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": [
+            "2024-10-28T12:06:31.746+0100"
+          ],
+          "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": [
+            "NKellner"
+          ]
+        },
+        "user": {}
+      },
+      "type": "Dataset"
+    },
+    "target": {
+      "items": [
+        {
+          "source": "D_023EE3D5-8926-482C-A306-AC846BBAA528",
+          "selector": {
+            "start": 14723,
+            "end": 14725,
+            "type": "TextPositionSelector"
+          }
+        }
+      ],
+      "type": "List"
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": "collections/C_73B4B7BA-A0F0-4ECF-ADF2-C565DF8F5A28/annotations/CATMA_332C61FE-8174-4034-8E92-8612B6AD094C",
+    "body": {
+      "@context": {
+        "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_5A71B179-65C2-4D7A-A4CC-1E45F691F683/CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6",
+        "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_5A71B179-65C2-4D7A-A4CC-1E45F691F683/CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF",
+        "tag": "https://www.catma.de/tag",
+        "tagset": "https://www.catma.de/tagset"
+      },
+      "tagset": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C",
+      "tag": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_5A71B179-65C2-4D7A-A4CC-1E45F691F683",
+      "properties": {
+        "system": {
+          "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": [
+            "2024-10-28T12:06:37.226+0100"
+          ],
+          "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": [
+            "NKellner"
+          ]
+        },
+        "user": {}
+      },
+      "type": "Dataset"
+    },
+    "target": {
+      "items": [
+        {
+          "source": "D_023EE3D5-8926-482C-A306-AC846BBAA528",
+          "selector": {
+            "start": 14726,
+            "end": 14733,
+            "type": "TextPositionSelector"
+          }
+        }
+      ],
+      "type": "List"
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": "collections/C_73B4B7BA-A0F0-4ECF-ADF2-C565DF8F5A28/annotations/CATMA_7166870B-DED2-48E9-AFA8-F9C791350197",
+    "body": {
+      "@context": {
+        "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_5A71B179-65C2-4D7A-A4CC-1E45F691F683/CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6",
+        "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_5A71B179-65C2-4D7A-A4CC-1E45F691F683/CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF",
+        "tag": "https://www.catma.de/tag",
+        "tagset": "https://www.catma.de/tagset"
+      },
+      "tagset": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C",
+      "tag": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_5A71B179-65C2-4D7A-A4CC-1E45F691F683",
+      "properties": {
+        "system": {
+          "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": [
+            "2024-10-28T12:06:42.585+0100"
+          ],
+          "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": [
+            "NKellner"
+          ]
+        },
+        "user": {}
+      },
+      "type": "Dataset"
+    },
+    "target": {
+      "items": [
+        {
+          "source": "D_023EE3D5-8926-482C-A306-AC846BBAA528",
+          "selector": {
+            "start": 14734,
+            "end": 14740,
+            "type": "TextPositionSelector"
+          }
+        }
+      ],
+      "type": "List"
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": "collections/C_73B4B7BA-A0F0-4ECF-ADF2-C565DF8F5A28/annotations/CATMA_EBBD2BD0-61BF-43D5-A1C8-51219C017EDB",
+    "body": {
+      "@context": {
+        "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_6960AC2B-41E4-4B20-8467-011EAEA19675/CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6",
+        "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_6960AC2B-41E4-4B20-8467-011EAEA19675/CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF",
+        "tag": "https://www.catma.de/tag",
+        "tagset": "https://www.catma.de/tagset"
+      },
+      "tagset": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C",
+      "tag": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_6960AC2B-41E4-4B20-8467-011EAEA19675",
+      "properties": {
+        "system": {
+          "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": [
+            "2024-10-28T12:07:37.768+0100"
+          ],
+          "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": [
+            "NKellner"
+          ]
+        },
+        "user": {}
+      },
+      "type": "Dataset"
+    },
+    "target": {
+      "items": [
+        {
+          "source": "D_023EE3D5-8926-482C-A306-AC846BBAA528",
+          "selector": {
+            "start": 14954,
+            "end": 14964,
+            "type": "TextPositionSelector"
+          }
+        }
+      ],
+      "type": "List"
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": "collections/C_73B4B7BA-A0F0-4ECF-ADF2-C565DF8F5A28/annotations/CATMA_3C723506-CFAE-44D6-B532-C42DF987FF38",
+    "body": {
+      "@context": {
+        "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_6960AC2B-41E4-4B20-8467-011EAEA19675/CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6",
+        "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_6960AC2B-41E4-4B20-8467-011EAEA19675/CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF",
+        "tag": "https://www.catma.de/tag",
+        "tagset": "https://www.catma.de/tagset"
+      },
+      "tagset": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C",
+      "tag": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_6960AC2B-41E4-4B20-8467-011EAEA19675",
+      "properties": {
+        "system": {
+          "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": [
+            "2024-10-28T12:19:49.758+0100"
+          ],
+          "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": [
+            "NKellner"
+          ]
+        },
+        "user": {}
+      },
+      "type": "Dataset"
+    },
+    "target": {
+      "items": [
+        {
+          "source": "D_023EE3D5-8926-482C-A306-AC846BBAA528",
+          "selector": {
+            "start": 15128,
+            "end": 15138,
+            "type": "TextPositionSelector"
+          }
+        }
+      ],
+      "type": "List"
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": "collections/C_73B4B7BA-A0F0-4ECF-ADF2-C565DF8F5A28/annotations/CATMA_AB1D85B4-8CFD-4005-9E6C-015CB9164177",
+    "body": {
+      "@context": {
+        "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_296BAC6C-7F06-47A9-A6F4-DE28800A8E24/CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6",
+        "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_296BAC6C-7F06-47A9-A6F4-DE28800A8E24/CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF",
+        "tag": "https://www.catma.de/tag",
+        "tagset": "https://www.catma.de/tagset"
+      },
+      "tagset": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C",
+      "tag": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_296BAC6C-7F06-47A9-A6F4-DE28800A8E24",
+      "properties": {
+        "system": {
+          "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": [
+            "2024-10-28T12:20:16.497+0100"
+          ],
+          "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": [
+            "NKellner"
+          ]
+        },
+        "user": {}
+      },
+      "type": "Dataset"
+    },
+    "target": {
+      "items": [
+        {
+          "source": "D_023EE3D5-8926-482C-A306-AC846BBAA528",
+          "selector": {
+            "start": 15236,
+            "end": 15244,
+            "type": "TextPositionSelector"
+          }
+        }
+      ],
+      "type": "List"
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": "collections/C_73B4B7BA-A0F0-4ECF-ADF2-C565DF8F5A28/annotations/CATMA_908ECF16-5BAB-4D8A-B381-57B0605AEF6C",
+    "body": {
+      "@context": {
+        "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_DDDC29E7-93EE-46A3-95C8-36B564FAEDB9/CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6",
+        "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_DDDC29E7-93EE-46A3-95C8-36B564FAEDB9/CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF",
+        "tag": "https://www.catma.de/tag",
+        "tagset": "https://www.catma.de/tagset"
+      },
+      "tagset": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C",
+      "tag": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_DDDC29E7-93EE-46A3-95C8-36B564FAEDB9",
+      "properties": {
+        "system": {
+          "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": [
+            "2024-10-28T12:20:23.642+0100"
+          ],
+          "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": [
+            "NKellner"
+          ]
+        },
+        "user": {}
+      },
+      "type": "Dataset"
+    },
+    "target": {
+      "items": [
+        {
+          "source": "D_023EE3D5-8926-482C-A306-AC846BBAA528",
+          "selector": {
+            "start": 15230,
+            "end": 15235,
+            "type": "TextPositionSelector"
+          }
+        }
+      ],
+      "type": "List"
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": "collections/C_73B4B7BA-A0F0-4ECF-ADF2-C565DF8F5A28/annotations/CATMA_F2521348-4D98-4226-B9E8-44B206F6C26E",
+    "body": {
+      "@context": {
+        "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_1BC82955-F113-4F00-8CD3-788094AE1D41/CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6",
+        "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_1BC82955-F113-4F00-8CD3-788094AE1D41/CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF",
+        "tag": "https://www.catma.de/tag",
+        "tagset": "https://www.catma.de/tagset"
+      },
+      "tagset": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C",
+      "tag": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_1BC82955-F113-4F00-8CD3-788094AE1D41",
+      "properties": {
+        "system": {
+          "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": [
+            "2024-10-28T12:20:32.338+0100"
+          ],
+          "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": [
+            "NKellner"
+          ]
+        },
+        "user": {}
+      },
+      "type": "Dataset"
+    },
+    "target": {
+      "items": [
+        {
+          "source": "D_023EE3D5-8926-482C-A306-AC846BBAA528",
+          "selector": {
+            "start": 15303,
+            "end": 15308,
+            "type": "TextPositionSelector"
+          }
+        }
+      ],
+      "type": "List"
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": "collections/C_73B4B7BA-A0F0-4ECF-ADF2-C565DF8F5A28/annotations/CATMA_5D5546E6-006A-46D1-A2F7-B2F3936FD456",
+    "body": {
+      "@context": {
+        "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_296BAC6C-7F06-47A9-A6F4-DE28800A8E24/CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6",
+        "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_296BAC6C-7F06-47A9-A6F4-DE28800A8E24/CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF",
+        "tag": "https://www.catma.de/tag",
+        "tagset": "https://www.catma.de/tagset"
+      },
+      "tagset": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C",
+      "tag": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_296BAC6C-7F06-47A9-A6F4-DE28800A8E24",
+      "properties": {
+        "system": {
+          "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": [
+            "2024-10-28T12:20:38.735+0100"
+          ],
+          "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": [
+            "NKellner"
+          ]
+        },
+        "user": {}
+      },
+      "type": "Dataset"
+    },
+    "target": {
+      "items": [
+        {
+          "source": "D_023EE3D5-8926-482C-A306-AC846BBAA528",
+          "selector": {
+            "start": 15528,
+            "end": 15540,
+            "type": "TextPositionSelector"
+          }
+        }
+      ],
+      "type": "List"
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": "collections/C_73B4B7BA-A0F0-4ECF-ADF2-C565DF8F5A28/annotations/CATMA_9DA688B6-1B1F-4D0B-ADA6-693B8FF8A81D",
+    "body": {
+      "@context": {
+        "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_6960AC2B-41E4-4B20-8467-011EAEA19675/CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6",
+        "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_6960AC2B-41E4-4B20-8467-011EAEA19675/CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF",
+        "tag": "https://www.catma.de/tag",
+        "tagset": "https://www.catma.de/tagset"
+      },
+      "tagset": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C",
+      "tag": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_6960AC2B-41E4-4B20-8467-011EAEA19675",
+      "properties": {
+        "system": {
+          "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": [
+            "2024-10-28T12:20:51.856+0100"
+          ],
+          "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": [
+            "NKellner"
+          ]
+        },
+        "user": {}
+      },
+      "type": "Dataset"
+    },
+    "target": {
+      "items": [
+        {
+          "source": "D_023EE3D5-8926-482C-A306-AC846BBAA528",
+          "selector": {
+            "start": 15594,
+            "end": 15598,
+            "type": "TextPositionSelector"
+          }
+        },
+        {
+          "source": "D_023EE3D5-8926-482C-A306-AC846BBAA528",
+          "selector": {
+            "start": 15602,
+            "end": 15606,
+            "type": "TextPositionSelector"
+          }
+        }
+      ],
+      "type": "List"
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": "collections/C_73B4B7BA-A0F0-4ECF-ADF2-C565DF8F5A28/annotations/CATMA_DBAF1A03-DA0C-4672-9FF2-F4566305A73C",
+    "body": {
+      "@context": {
+        "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_C6B0E6E4-8224-4455-9B6B-936B1B0364A7/CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6",
+        "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_C6B0E6E4-8224-4455-9B6B-936B1B0364A7/CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF",
+        "tag": "https://www.catma.de/tag",
+        "tagset": "https://www.catma.de/tagset"
+      },
+      "tagset": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C",
+      "tag": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_C6B0E6E4-8224-4455-9B6B-936B1B0364A7",
+      "properties": {
+        "system": {
+          "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": [
+            "2024-10-28T12:20:58.990+0100"
+          ],
+          "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": [
+            "NKellner"
+          ]
+        },
+        "user": {}
+      },
+      "type": "Dataset"
+    },
+    "target": {
+      "items": [
+        {
+          "source": "D_023EE3D5-8926-482C-A306-AC846BBAA528",
+          "selector": {
+            "start": 15611,
+            "end": 15615,
+            "type": "TextPositionSelector"
+          }
+        }
+      ],
+      "type": "List"
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": "collections/C_73B4B7BA-A0F0-4ECF-ADF2-C565DF8F5A28/annotations/CATMA_0F9BE1A0-B2EF-4865-B16C-F3B35EB76358",
+    "body": {
+      "@context": {
+        "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_D99C06FB-99AF-4166-81BB-23B1AEBC70CB/CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6",
+        "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_D99C06FB-99AF-4166-81BB-23B1AEBC70CB/CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF",
+        "tag": "https://www.catma.de/tag",
+        "tagset": "https://www.catma.de/tagset"
+      },
+      "tagset": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C",
+      "tag": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_D99C06FB-99AF-4166-81BB-23B1AEBC70CB",
+      "properties": {
+        "system": {
+          "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": [
+            "2024-10-28T12:21:06.019+0100"
+          ],
+          "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": [
+            "NKellner"
+          ]
+        },
+        "user": {}
+      },
+      "type": "Dataset"
+    },
+    "target": {
+      "items": [
+        {
+          "source": "D_023EE3D5-8926-482C-A306-AC846BBAA528",
+          "selector": {
+            "start": 15654,
+            "end": 15656,
+            "type": "TextPositionSelector"
+          }
+        }
+      ],
+      "type": "List"
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": "collections/C_73B4B7BA-A0F0-4ECF-ADF2-C565DF8F5A28/annotations/CATMA_48ABA98F-B026-40BD-8D08-4DEE090FDCF9",
+    "body": {
+      "@context": {
+        "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_FCBC2620-4967-4A67-92BE-58BEE67BE3E5/CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6",
+        "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_FCBC2620-4967-4A67-92BE-58BEE67BE3E5/CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF",
+        "tag": "https://www.catma.de/tag",
+        "tagset": "https://www.catma.de/tagset"
+      },
+      "tagset": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C",
+      "tag": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_FCBC2620-4967-4A67-92BE-58BEE67BE3E5",
+      "properties": {
+        "system": {
+          "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": [
+            "2024-10-28T12:21:12.389+0100"
+          ],
+          "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": [
+            "NKellner"
+          ]
+        },
+        "user": {}
+      },
+      "type": "Dataset"
+    },
+    "target": {
+      "items": [
+        {
+          "source": "D_023EE3D5-8926-482C-A306-AC846BBAA528",
+          "selector": {
+            "start": 15688,
+            "end": 15691,
+            "type": "TextPositionSelector"
+          }
+        }
+      ],
+      "type": "List"
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": "collections/C_73B4B7BA-A0F0-4ECF-ADF2-C565DF8F5A28/annotations/CATMA_8BEFE7EB-B82F-4178-A86A-DFDA24EC8922",
+    "body": {
+      "@context": {
+        "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_E9859436-44D4-467D-8196-060A02BD0D56/CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6",
+        "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_E9859436-44D4-467D-8196-060A02BD0D56/CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF",
+        "tag": "https://www.catma.de/tag",
+        "tagset": "https://www.catma.de/tagset"
+      },
+      "tagset": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C",
+      "tag": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_E9859436-44D4-467D-8196-060A02BD0D56",
+      "properties": {
+        "system": {
+          "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": [
+            "2024-10-28T12:21:20.015+0100"
+          ],
+          "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": [
+            "NKellner"
+          ]
+        },
+        "user": {}
+      },
+      "type": "Dataset"
+    },
+    "target": {
+      "items": [
+        {
+          "source": "D_023EE3D5-8926-482C-A306-AC846BBAA528",
+          "selector": {
+            "start": 15805,
+            "end": 15811,
+            "type": "TextPositionSelector"
+          }
+        }
+      ],
+      "type": "List"
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": "collections/C_73B4B7BA-A0F0-4ECF-ADF2-C565DF8F5A28/annotations/CATMA_2B6161EE-BFD8-47E9-96EB-DCC741058CBF",
+    "body": {
+      "@context": {
+        "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_6931398D-8471-4CC2-86BE-0364AC24F170/CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6",
+        "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_6931398D-8471-4CC2-86BE-0364AC24F170/CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF",
+        "tag": "https://www.catma.de/tag",
+        "tagset": "https://www.catma.de/tagset"
+      },
+      "tagset": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C",
+      "tag": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_6931398D-8471-4CC2-86BE-0364AC24F170",
+      "properties": {
+        "system": {
+          "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": [
+            "2024-10-28T12:21:26.781+0100"
+          ],
+          "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": [
+            "NKellner"
+          ]
+        },
+        "user": {}
+      },
+      "type": "Dataset"
+    },
+    "target": {
+      "items": [
+        {
+          "source": "D_023EE3D5-8926-482C-A306-AC846BBAA528",
+          "selector": {
+            "start": 15917,
+            "end": 15926,
+            "type": "TextPositionSelector"
+          }
+        },
+        {
+          "source": "D_023EE3D5-8926-482C-A306-AC846BBAA528",
+          "selector": {
+            "start": 15926,
+            "end": 15936,
+            "type": "TextPositionSelector"
+          }
+        }
+      ],
+      "type": "List"
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": "collections/C_73B4B7BA-A0F0-4ECF-ADF2-C565DF8F5A28/annotations/CATMA_49FD98B2-1C60-4E45-A513-A72158B2EBD8",
+    "body": {
+      "@context": {
+        "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_296BAC6C-7F06-47A9-A6F4-DE28800A8E24/CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6",
+        "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_296BAC6C-7F06-47A9-A6F4-DE28800A8E24/CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF",
+        "tag": "https://www.catma.de/tag",
+        "tagset": "https://www.catma.de/tagset"
+      },
+      "tagset": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C",
+      "tag": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_296BAC6C-7F06-47A9-A6F4-DE28800A8E24",
+      "properties": {
+        "system": {
+          "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": [
+            "2024-10-28T12:22:11.074+0100"
+          ],
+          "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": [
+            "NKellner"
+          ]
+        },
+        "user": {}
+      },
+      "type": "Dataset"
+    },
+    "target": {
+      "items": [
+        {
+          "source": "D_023EE3D5-8926-482C-A306-AC846BBAA528",
+          "selector": {
+            "start": 16069,
+            "end": 16075,
+            "type": "TextPositionSelector"
+          }
+        }
+      ],
+      "type": "List"
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": "collections/C_73B4B7BA-A0F0-4ECF-ADF2-C565DF8F5A28/annotations/CATMA_151D030E-A2DE-477F-994F-18340CBE3E74",
+    "body": {
+      "@context": {
+        "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_DDDC29E7-93EE-46A3-95C8-36B564FAEDB9/CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6",
+        "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_DDDC29E7-93EE-46A3-95C8-36B564FAEDB9/CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF",
+        "tag": "https://www.catma.de/tag",
+        "tagset": "https://www.catma.de/tagset"
+      },
+      "tagset": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C",
+      "tag": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_DDDC29E7-93EE-46A3-95C8-36B564FAEDB9",
+      "properties": {
+        "system": {
+          "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": [
+            "2024-10-28T12:22:16.541+0100"
+          ],
+          "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": [
+            "NKellner"
+          ]
+        },
+        "user": {}
+      },
+      "type": "Dataset"
+    },
+    "target": {
+      "items": [
+        {
+          "source": "D_023EE3D5-8926-482C-A306-AC846BBAA528",
+          "selector": {
+            "start": 16056,
+            "end": 16058,
+            "type": "TextPositionSelector"
+          }
+        }
+      ],
+      "type": "List"
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": "collections/C_73B4B7BA-A0F0-4ECF-ADF2-C565DF8F5A28/annotations/CATMA_9E9801B8-9A18-465C-AF07-7186A05EFE9B",
+    "body": {
+      "@context": {
+        "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_296BAC6C-7F06-47A9-A6F4-DE28800A8E24/CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6",
+        "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_296BAC6C-7F06-47A9-A6F4-DE28800A8E24/CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF",
+        "tag": "https://www.catma.de/tag",
+        "tagset": "https://www.catma.de/tagset"
+      },
+      "tagset": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C",
+      "tag": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_296BAC6C-7F06-47A9-A6F4-DE28800A8E24",
+      "properties": {
+        "system": {
+          "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": [
+            "2024-10-28T12:22:25.823+0100"
+          ],
+          "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": [
+            "NKellner"
+          ]
+        },
+        "user": {}
+      },
+      "type": "Dataset"
+    },
+    "target": {
+      "items": [
+        {
+          "source": "D_023EE3D5-8926-482C-A306-AC846BBAA528",
+          "selector": {
+            "start": 16105,
+            "end": 16114,
+            "type": "TextPositionSelector"
+          }
+        }
+      ],
+      "type": "List"
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": "collections/C_73B4B7BA-A0F0-4ECF-ADF2-C565DF8F5A28/annotations/CATMA_74973681-265C-4268-81AD-F1807D142C1D",
+    "body": {
+      "@context": {
+        "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_296BAC6C-7F06-47A9-A6F4-DE28800A8E24/CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6",
+        "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_296BAC6C-7F06-47A9-A6F4-DE28800A8E24/CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF",
+        "tag": "https://www.catma.de/tag",
+        "tagset": "https://www.catma.de/tagset"
+      },
+      "tagset": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C",
+      "tag": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_296BAC6C-7F06-47A9-A6F4-DE28800A8E24",
+      "properties": {
+        "system": {
+          "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": [
+            "2024-10-28T12:23:32.506+0100"
+          ],
+          "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": [
+            "NKellner"
+          ]
+        },
+        "user": {}
+      },
+      "type": "Dataset"
+    },
+    "target": {
+      "items": [
+        {
+          "source": "D_023EE3D5-8926-482C-A306-AC846BBAA528",
+          "selector": {
+            "start": 16446,
+            "end": 16458,
+            "type": "TextPositionSelector"
+          }
+        }
+      ],
+      "type": "List"
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": "collections/C_73B4B7BA-A0F0-4ECF-ADF2-C565DF8F5A28/annotations/CATMA_C3B61E76-7E34-4985-AB23-05D6219803E0",
+    "body": {
+      "@context": {
+        "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_D99C06FB-99AF-4166-81BB-23B1AEBC70CB/CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6",
+        "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_D99C06FB-99AF-4166-81BB-23B1AEBC70CB/CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF",
+        "tag": "https://www.catma.de/tag",
+        "tagset": "https://www.catma.de/tagset"
+      },
+      "tagset": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C",
+      "tag": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_D99C06FB-99AF-4166-81BB-23B1AEBC70CB",
+      "properties": {
+        "system": {
+          "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": [
+            "2024-10-28T12:23:44.472+0100"
+          ],
+          "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": [
+            "NKellner"
+          ]
+        },
+        "user": {}
+      },
+      "type": "Dataset"
+    },
+    "target": {
+      "items": [
+        {
+          "source": "D_023EE3D5-8926-482C-A306-AC846BBAA528",
+          "selector": {
+            "start": 16495,
+            "end": 16497,
+            "type": "TextPositionSelector"
+          }
+        }
+      ],
+      "type": "List"
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": "collections/C_73B4B7BA-A0F0-4ECF-ADF2-C565DF8F5A28/annotations/CATMA_2ED44CE0-C565-4A84-A2EE-EA34800BA3DC",
+    "body": {
+      "@context": {
+        "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_5A71B179-65C2-4D7A-A4CC-1E45F691F683/CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6",
+        "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_5A71B179-65C2-4D7A-A4CC-1E45F691F683/CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF",
+        "tag": "https://www.catma.de/tag",
+        "tagset": "https://www.catma.de/tagset"
+      },
+      "tagset": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C",
+      "tag": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_5A71B179-65C2-4D7A-A4CC-1E45F691F683",
+      "properties": {
+        "system": {
+          "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": [
+            "2024-10-28T12:23:50.659+0100"
+          ],
+          "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": [
+            "NKellner"
+          ]
+        },
+        "user": {}
+      },
+      "type": "Dataset"
+    },
+    "target": {
+      "items": [
+        {
+          "source": "D_023EE3D5-8926-482C-A306-AC846BBAA528",
+          "selector": {
+            "start": 16529,
+            "end": 16536,
+            "type": "TextPositionSelector"
+          }
+        }
+      ],
+      "type": "List"
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": "collections/C_73B4B7BA-A0F0-4ECF-ADF2-C565DF8F5A28/annotations/CATMA_715CDE5F-17D6-4A5E-B0F6-36553CB2FB63",
+    "body": {
+      "@context": {
+        "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_7E699159-B07F-4C55-B4EF-24100B9065D7/CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6",
+        "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_7E699159-B07F-4C55-B4EF-24100B9065D7/CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF",
+        "tag": "https://www.catma.de/tag",
+        "tagset": "https://www.catma.de/tagset"
+      },
+      "tagset": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C",
+      "tag": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_7E699159-B07F-4C55-B4EF-24100B9065D7",
+      "properties": {
+        "system": {
+          "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": [
+            "2024-10-28T12:24:02.919+0100"
+          ],
+          "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": [
+            "NKellner"
+          ]
+        },
+        "user": {}
+      },
+      "type": "Dataset"
+    },
+    "target": {
+      "items": [
+        {
+          "source": "D_023EE3D5-8926-482C-A306-AC846BBAA528",
+          "selector": {
+            "start": 16538,
+            "end": 16555,
+            "type": "TextPositionSelector"
+          }
+        }
+      ],
+      "type": "List"
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": "collections/C_73B4B7BA-A0F0-4ECF-ADF2-C565DF8F5A28/annotations/CATMA_F7455C9E-D232-487E-B37E-50A8B4C2A76E",
+    "body": {
+      "@context": {
+        "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_D99C06FB-99AF-4166-81BB-23B1AEBC70CB/CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6",
+        "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_D99C06FB-99AF-4166-81BB-23B1AEBC70CB/CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF",
+        "tag": "https://www.catma.de/tag",
+        "tagset": "https://www.catma.de/tagset"
+      },
+      "tagset": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C",
+      "tag": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_D99C06FB-99AF-4166-81BB-23B1AEBC70CB",
+      "properties": {
+        "system": {
+          "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": [
+            "2024-10-28T12:24:09.263+0100"
+          ],
+          "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": [
+            "NKellner"
+          ]
+        },
+        "user": {}
+      },
+      "type": "Dataset"
+    },
+    "target": {
+      "items": [
+        {
+          "source": "D_023EE3D5-8926-482C-A306-AC846BBAA528",
+          "selector": {
+            "start": 16556,
+            "end": 16559,
+            "type": "TextPositionSelector"
+          }
+        }
+      ],
+      "type": "List"
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": "collections/C_73B4B7BA-A0F0-4ECF-ADF2-C565DF8F5A28/annotations/CATMA_6BF55A91-63E2-4746-BC4A-38E40C1A76CD",
+    "body": {
+      "@context": {
+        "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_90C1BA61-3782-41FB-B549-9CA2995D6AEC/CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6",
+        "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_90C1BA61-3782-41FB-B549-9CA2995D6AEC/CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF",
+        "tag": "https://www.catma.de/tag",
+        "tagset": "https://www.catma.de/tagset"
+      },
+      "tagset": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C",
+      "tag": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_90C1BA61-3782-41FB-B549-9CA2995D6AEC",
+      "properties": {
+        "system": {
+          "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": [
+            "2024-10-28T12:24:15.410+0100"
+          ],
+          "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": [
+            "NKellner"
+          ]
+        },
+        "user": {}
+      },
+      "type": "Dataset"
+    },
+    "target": {
+      "items": [
+        {
+          "source": "D_023EE3D5-8926-482C-A306-AC846BBAA528",
+          "selector": {
+            "start": 16564,
+            "end": 16570,
+            "type": "TextPositionSelector"
+          }
+        }
+      ],
+      "type": "List"
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": "collections/C_73B4B7BA-A0F0-4ECF-ADF2-C565DF8F5A28/annotations/CATMA_C67348B5-313C-437A-B69A-10160F744181",
+    "body": {
+      "@context": {
+        "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_5A71B179-65C2-4D7A-A4CC-1E45F691F683/CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6",
+        "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_5A71B179-65C2-4D7A-A4CC-1E45F691F683/CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF",
+        "tag": "https://www.catma.de/tag",
+        "tagset": "https://www.catma.de/tagset"
+      },
+      "tagset": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C",
+      "tag": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_5A71B179-65C2-4D7A-A4CC-1E45F691F683",
+      "properties": {
+        "system": {
+          "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": [
+            "2024-10-28T12:24:21.925+0100"
+          ],
+          "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": [
+            "NKellner"
+          ]
+        },
+        "user": {}
+      },
+      "type": "Dataset"
+    },
+    "target": {
+      "items": [
+        {
+          "source": "D_023EE3D5-8926-482C-A306-AC846BBAA528",
+          "selector": {
+            "start": 16571,
+            "end": 16583,
+            "type": "TextPositionSelector"
+          }
+        }
+      ],
+      "type": "List"
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": "collections/C_73B4B7BA-A0F0-4ECF-ADF2-C565DF8F5A28/annotations/CATMA_71BD7486-3ED9-4D79-8E5A-C665D9949CB6",
+    "body": {
+      "@context": {
+        "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_D99C06FB-99AF-4166-81BB-23B1AEBC70CB/CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6",
+        "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_D99C06FB-99AF-4166-81BB-23B1AEBC70CB/CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF",
+        "tag": "https://www.catma.de/tag",
+        "tagset": "https://www.catma.de/tagset"
+      },
+      "tagset": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C",
+      "tag": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_D99C06FB-99AF-4166-81BB-23B1AEBC70CB",
+      "properties": {
+        "system": {
+          "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": [
+            "2024-10-28T12:24:27.005+0100"
+          ],
+          "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": [
+            "NKellner"
+          ]
+        },
+        "user": {}
+      },
+      "type": "Dataset"
+    },
+    "target": {
+      "items": [
+        {
+          "source": "D_023EE3D5-8926-482C-A306-AC846BBAA528",
+          "selector": {
+            "start": 16585,
+            "end": 16588,
+            "type": "TextPositionSelector"
+          }
+        }
+      ],
+      "type": "List"
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": "collections/C_73B4B7BA-A0F0-4ECF-ADF2-C565DF8F5A28/annotations/CATMA_9E33F0A4-786F-441C-A194-013EBC84A8CF",
+    "body": {
+      "@context": {
+        "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_FCBC2620-4967-4A67-92BE-58BEE67BE3E5/CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6",
+        "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_FCBC2620-4967-4A67-92BE-58BEE67BE3E5/CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF",
+        "tag": "https://www.catma.de/tag",
+        "tagset": "https://www.catma.de/tagset"
+      },
+      "tagset": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C",
+      "tag": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_FCBC2620-4967-4A67-92BE-58BEE67BE3E5",
+      "properties": {
+        "system": {
+          "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": [
+            "2024-10-28T12:24:37.649+0100"
+          ],
+          "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": [
+            "NKellner"
+          ]
+        },
+        "user": {}
+      },
+      "type": "Dataset"
+    },
+    "target": {
+      "items": [
+        {
+          "source": "D_023EE3D5-8926-482C-A306-AC846BBAA528",
+          "selector": {
+            "start": 16627,
+            "end": 16630,
+            "type": "TextPositionSelector"
+          }
+        }
+      ],
+      "type": "List"
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": "collections/C_73B4B7BA-A0F0-4ECF-ADF2-C565DF8F5A28/annotations/CATMA_999F8297-BB95-41A9-8DAD-CDDDEC476753",
+    "body": {
+      "@context": {
+        "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_FCBC2620-4967-4A67-92BE-58BEE67BE3E5/CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6",
+        "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_FCBC2620-4967-4A67-92BE-58BEE67BE3E5/CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF",
+        "tag": "https://www.catma.de/tag",
+        "tagset": "https://www.catma.de/tagset"
+      },
+      "tagset": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C",
+      "tag": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_FCBC2620-4967-4A67-92BE-58BEE67BE3E5",
+      "properties": {
+        "system": {
+          "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": [
+            "2024-10-28T12:24:42.084+0100"
+          ],
+          "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": [
+            "NKellner"
+          ]
+        },
+        "user": {}
+      },
+      "type": "Dataset"
+    },
+    "target": {
+      "items": [
+        {
+          "source": "D_023EE3D5-8926-482C-A306-AC846BBAA528",
+          "selector": {
+            "start": 16635,
+            "end": 16638,
+            "type": "TextPositionSelector"
+          }
+        }
+      ],
+      "type": "List"
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": "collections/C_73B4B7BA-A0F0-4ECF-ADF2-C565DF8F5A28/annotations/CATMA_DC7CF779-4402-4979-96EC-8CF7E15B752B",
+    "body": {
+      "@context": {
+        "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_C6B0E6E4-8224-4455-9B6B-936B1B0364A7/CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6",
+        "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_C6B0E6E4-8224-4455-9B6B-936B1B0364A7/CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF",
+        "tag": "https://www.catma.de/tag",
+        "tagset": "https://www.catma.de/tagset"
+      },
+      "tagset": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C",
+      "tag": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_C6B0E6E4-8224-4455-9B6B-936B1B0364A7",
+      "properties": {
+        "system": {
+          "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": [
+            "2024-10-28T12:24:47.728+0100"
+          ],
+          "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": [
+            "NKellner"
+          ]
+        },
+        "user": {}
+      },
+      "type": "Dataset"
+    },
+    "target": {
+      "items": [
+        {
+          "source": "D_023EE3D5-8926-482C-A306-AC846BBAA528",
+          "selector": {
+            "start": 16639,
+            "end": 16646,
+            "type": "TextPositionSelector"
+          }
+        }
+      ],
+      "type": "List"
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": "collections/C_73B4B7BA-A0F0-4ECF-ADF2-C565DF8F5A28/annotations/CATMA_1722E82A-DF89-4CBA-BEC0-AFBC17EB761D",
+    "body": {
+      "@context": {
+        "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_FCBC2620-4967-4A67-92BE-58BEE67BE3E5/CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6",
+        "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_FCBC2620-4967-4A67-92BE-58BEE67BE3E5/CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF",
+        "tag": "https://www.catma.de/tag",
+        "tagset": "https://www.catma.de/tagset"
+      },
+      "tagset": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C",
+      "tag": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_FCBC2620-4967-4A67-92BE-58BEE67BE3E5",
+      "properties": {
+        "system": {
+          "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": [
+            "2024-10-28T12:24:52.934+0100"
+          ],
+          "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": [
+            "NKellner"
+          ]
+        },
+        "user": {}
+      },
+      "type": "Dataset"
+    },
+    "target": {
+      "items": [
+        {
+          "source": "D_023EE3D5-8926-482C-A306-AC846BBAA528",
+          "selector": {
+            "start": 16702,
+            "end": 16706,
+            "type": "TextPositionSelector"
+          }
+        }
+      ],
+      "type": "List"
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": "collections/C_73B4B7BA-A0F0-4ECF-ADF2-C565DF8F5A28/annotations/CATMA_89AB1AEE-2E2D-4386-941E-321DE31BD438",
+    "body": {
+      "@context": {
+        "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_7E699159-B07F-4C55-B4EF-24100B9065D7/CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6",
+        "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_7E699159-B07F-4C55-B4EF-24100B9065D7/CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF",
+        "tag": "https://www.catma.de/tag",
+        "tagset": "https://www.catma.de/tagset"
+      },
+      "tagset": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C",
+      "tag": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_7E699159-B07F-4C55-B4EF-24100B9065D7",
+      "properties": {
+        "system": {
+          "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": [
+            "2024-10-28T12:25:09.132+0100"
+          ],
+          "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": [
+            "NKellner"
+          ]
+        },
+        "user": {}
+      },
+      "type": "Dataset"
+    },
+    "target": {
+      "items": [
+        {
+          "source": "D_023EE3D5-8926-482C-A306-AC846BBAA528",
+          "selector": {
+            "start": 16774,
+            "end": 16779,
+            "type": "TextPositionSelector"
+          }
+        },
+        {
+          "source": "D_023EE3D5-8926-482C-A306-AC846BBAA528",
+          "selector": {
+            "start": 16779,
+            "end": 16801,
+            "type": "TextPositionSelector"
+          }
+        }
+      ],
+      "type": "List"
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": "collections/C_73B4B7BA-A0F0-4ECF-ADF2-C565DF8F5A28/annotations/CATMA_B1E4C7A3-7B0C-4A23-8C70-36F17D7CEAD8",
+    "body": {
+      "@context": {
+        "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_296BAC6C-7F06-47A9-A6F4-DE28800A8E24/CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6",
+        "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_296BAC6C-7F06-47A9-A6F4-DE28800A8E24/CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF",
+        "tag": "https://www.catma.de/tag",
+        "tagset": "https://www.catma.de/tagset"
+      },
+      "tagset": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C",
+      "tag": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_296BAC6C-7F06-47A9-A6F4-DE28800A8E24",
+      "properties": {
+        "system": {
+          "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": [
+            "2024-10-28T12:25:41.843+0100"
+          ],
+          "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": [
+            "NKellner"
+          ]
+        },
+        "user": {}
+      },
+      "type": "Dataset"
+    },
+    "target": {
+      "items": [
+        {
+          "source": "D_023EE3D5-8926-482C-A306-AC846BBAA528",
+          "selector": {
+            "start": 16802,
+            "end": 16810,
+            "type": "TextPositionSelector"
+          }
+        }
+      ],
+      "type": "List"
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": "collections/C_73B4B7BA-A0F0-4ECF-ADF2-C565DF8F5A28/annotations/CATMA_6DEFAEE7-3EF0-419A-9E35-228BD76BFF9B",
+    "body": {
+      "@context": {
+        "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_5A71B179-65C2-4D7A-A4CC-1E45F691F683/CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6",
+        "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_5A71B179-65C2-4D7A-A4CC-1E45F691F683/CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF",
+        "tag": "https://www.catma.de/tag",
+        "tagset": "https://www.catma.de/tagset"
+      },
+      "tagset": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C",
+      "tag": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_5A71B179-65C2-4D7A-A4CC-1E45F691F683",
+      "properties": {
+        "system": {
+          "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": [
+            "2024-10-28T12:25:48.180+0100"
+          ],
+          "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": [
+            "NKellner"
+          ]
+        },
+        "user": {}
+      },
+      "type": "Dataset"
+    },
+    "target": {
+      "items": [
+        {
+          "source": "D_023EE3D5-8926-482C-A306-AC846BBAA528",
+          "selector": {
+            "start": 16826,
+            "end": 16839,
+            "type": "TextPositionSelector"
+          }
+        }
+      ],
+      "type": "List"
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": "collections/C_73B4B7BA-A0F0-4ECF-ADF2-C565DF8F5A28/annotations/CATMA_1DBDA4A7-42FD-42B5-A225-BBDC317C6B43",
+    "body": {
+      "@context": {
+        "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_D99C06FB-99AF-4166-81BB-23B1AEBC70CB/CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6",
+        "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_D99C06FB-99AF-4166-81BB-23B1AEBC70CB/CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF",
+        "tag": "https://www.catma.de/tag",
+        "tagset": "https://www.catma.de/tagset"
+      },
+      "tagset": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C",
+      "tag": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_D99C06FB-99AF-4166-81BB-23B1AEBC70CB",
+      "properties": {
+        "system": {
+          "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": [
+            "2024-10-28T12:26:13.670+0100"
+          ],
+          "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": [
+            "NKellner"
+          ]
+        },
+        "user": {}
+      },
+      "type": "Dataset"
+    },
+    "target": {
+      "items": [
+        {
+          "source": "D_023EE3D5-8926-482C-A306-AC846BBAA528",
+          "selector": {
+            "start": 16967,
+            "end": 16970,
+            "type": "TextPositionSelector"
+          }
+        }
+      ],
+      "type": "List"
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": "collections/C_73B4B7BA-A0F0-4ECF-ADF2-C565DF8F5A28/annotations/CATMA_659EA44E-8C31-401A-B608-A115B1C4F400",
+    "body": {
+      "@context": {
+        "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_5A71B179-65C2-4D7A-A4CC-1E45F691F683/CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6",
+        "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_5A71B179-65C2-4D7A-A4CC-1E45F691F683/CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF",
+        "tag": "https://www.catma.de/tag",
+        "tagset": "https://www.catma.de/tagset"
+      },
+      "tagset": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C",
+      "tag": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_5A71B179-65C2-4D7A-A4CC-1E45F691F683",
+      "properties": {
+        "system": {
+          "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": [
+            "2024-10-28T12:26:18.943+0100"
+          ],
+          "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": [
+            "NKellner"
+          ]
+        },
+        "user": {}
+      },
+      "type": "Dataset"
+    },
+    "target": {
+      "items": [
+        {
+          "source": "D_023EE3D5-8926-482C-A306-AC846BBAA528",
+          "selector": {
+            "start": 16971,
+            "end": 16977,
+            "type": "TextPositionSelector"
+          }
+        }
+      ],
+      "type": "List"
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": "collections/C_73B4B7BA-A0F0-4ECF-ADF2-C565DF8F5A28/annotations/CATMA_5CA07395-C9AA-42A8-A6CE-0AA0A9664554",
+    "body": {
+      "@context": {
+        "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_6960AC2B-41E4-4B20-8467-011EAEA19675/CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6",
+        "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_6960AC2B-41E4-4B20-8467-011EAEA19675/CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF",
+        "tag": "https://www.catma.de/tag",
+        "tagset": "https://www.catma.de/tagset"
+      },
+      "tagset": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C",
+      "tag": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_6960AC2B-41E4-4B20-8467-011EAEA19675",
+      "properties": {
+        "system": {
+          "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": [
+            "2024-10-28T12:26:26.276+0100"
+          ],
+          "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": [
+            "NKellner"
+          ]
+        },
+        "user": {}
+      },
+      "type": "Dataset"
+    },
+    "target": {
+      "items": [
+        {
+          "source": "D_023EE3D5-8926-482C-A306-AC846BBAA528",
+          "selector": {
+            "start": 17018,
+            "end": 17026,
+            "type": "TextPositionSelector"
+          }
+        }
+      ],
+      "type": "List"
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": "collections/C_73B4B7BA-A0F0-4ECF-ADF2-C565DF8F5A28/annotations/CATMA_A4E39B83-C13A-4D17-B9BE-CA66914BF1E5",
+    "body": {
+      "@context": {
+        "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_FCBC2620-4967-4A67-92BE-58BEE67BE3E5/CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6",
+        "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_FCBC2620-4967-4A67-92BE-58BEE67BE3E5/CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF",
+        "tag": "https://www.catma.de/tag",
+        "tagset": "https://www.catma.de/tagset"
+      },
+      "tagset": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C",
+      "tag": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_FCBC2620-4967-4A67-92BE-58BEE67BE3E5",
+      "properties": {
+        "system": {
+          "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": [
+            "2024-10-28T12:26:33.561+0100"
+          ],
+          "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": [
+            "NKellner"
+          ]
+        },
+        "user": {}
+      },
+      "type": "Dataset"
+    },
+    "target": {
+      "items": [
+        {
+          "source": "D_023EE3D5-8926-482C-A306-AC846BBAA528",
+          "selector": {
+            "start": 17042,
+            "end": 17046,
+            "type": "TextPositionSelector"
+          }
+        }
+      ],
+      "type": "List"
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": "collections/C_73B4B7BA-A0F0-4ECF-ADF2-C565DF8F5A28/annotations/CATMA_2DF1B345-A388-48C6-B6D7-569E6281C2FE",
+    "body": {
+      "@context": {
+        "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_CE168302-2415-4945-96DA-B92827F3C71B/CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6",
+        "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_CE168302-2415-4945-96DA-B92827F3C71B/CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF",
+        "tag": "https://www.catma.de/tag",
+        "tagset": "https://www.catma.de/tagset"
+      },
+      "tagset": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C",
+      "tag": "tagsets/T_24CF21E5-6665-4C7F-82D4-A95E23EA2D4C/CATMA_CE168302-2415-4945-96DA-B92827F3C71B",
+      "properties": {
+        "system": {
+          "CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6": [
+            "2024-10-28T12:26:39.821+0100"
+          ],
+          "CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF": [
+            "NKellner"
+          ]
+        },
+        "user": {}
+      },
+      "type": "Dataset"
+    },
+    "target": {
+      "items": [
+        {
+          "source": "D_023EE3D5-8926-482C-A306-AC846BBAA528",
+          "selector": {
+            "start": 17047,
+            "end": 17052,
+            "type": "TextPositionSelector"
+          }
+        }
+      ],
+      "type": "List"
+    }
+  }
+]

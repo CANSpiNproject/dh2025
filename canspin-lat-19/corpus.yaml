@@ -1,0 +1,23 @@
+---
+corpus:
+  title: "CANSpiN-lat-19"
+  
+texts:
+  004:
+    title: "El falso Inca. Cronicón de la conquista"
+    author: "Payró, Roberto"
+    year: 1905
+    structural_units:
+      - "(Capítulo)"
+    annotations:
+      cs1:
+        1: "CANSpiN-lat-19_004_1.tsv"
+  041:
+    title: "El pozo del Yocci"
+    author: "Gorriti, Juana Manuela"
+    year: 1876
+    structural_units:
+      - "(Capítulo)"
+    annotations:
+      cs1:
+        1: "CANSpiN-lat-19_041_1.tsv"

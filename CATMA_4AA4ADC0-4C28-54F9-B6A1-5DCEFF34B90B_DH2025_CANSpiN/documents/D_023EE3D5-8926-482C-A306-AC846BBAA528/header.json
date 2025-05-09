@@ -1,0 +1,22 @@
+{
+  "gitContentInfoSet": {
+    "author": "Gustav Freytag",
+    "description": "ELTeC-deu",
+    "publisher": "",
+    "title": "DEU-19_030"
+  },
+  "gitIndexInfoSet": {
+    "locale": "de",
+    "unseparableCharacterSequences": [],
+    "userDefinedSeparatingCharacters": []
+  },
+  "gitTechInfoSet": {
+    "charset": "UTF-8",
+    "checksum": 2158942478,
+    "fileName": "DEU030.xml",
+    "fileOSType": "UNIX",
+    "fileType": "TEXT",
+    "mimeType": "text/plain",
+    "responsibleUser": null
+  }
+}

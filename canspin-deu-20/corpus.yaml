@@ -1,0 +1,23 @@
+---
+corpus:
+  title: "CANSpiN-deu-20"
+  
+texts:
+  002:
+    title: "Ansichten eines Clowns"
+    author: "Böll, Heinrich"
+    year: 1963
+    structural_units:
+      - "(Kapitel)"
+    annotations:
+      cs1:
+        1: "CANSpiN-deu-20_002_1.tsv"
+  021:
+    title: "Zwei Ansichten"
+    author: "Johnson, Uwe"
+    year: 1965
+    structural_units:
+      - "(Kapitel)"
+    annotations:
+      cs1:
+        1: "CANSpiN-deu-20_021_1.tsv"

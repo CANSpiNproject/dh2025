@@ -1,0 +1,23 @@
+---
+corpus:
+  title: "CANSpiN-spa-19"
+  
+texts:
+  001:
+    title: "El Señor de Bembibre"
+    author: "Gil y Carrasco, Enrique"
+    year: 1855
+    structural_units:
+      - "(Capítulo)"
+    annotations:
+      cs1: 
+        1: "CANSpiN-spa-19_001_1.tsv"
+  008:  
+    title: "Los templarios"
+    author: "Mora, Juan de Dios"
+    year: 1856
+    structural_units:
+      - "Capítulo"
+    annotations:
+      cs1: 
+        1: "CANSpiN-spa-19_008_1.tsv"
