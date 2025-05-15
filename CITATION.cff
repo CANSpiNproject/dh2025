@@ -1,0 +1,52 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: dh2025
+message: >-
+  If you use this dataset, please cite it using the metadata
+  from this file.
+type: dataset
+authors:
+  - given-names: Nils
+    family-names: Kellner
+    affiliation: University of Rostock
+    orcid: 'https://orcid.org/0009-0002-3966-5635'
+  - given-names: Marc
+    family-names: Lemke
+    affiliation: University of Rostock
+    orcid: 'https://orcid.org/0009-0004-8065-8191'
+  - given-names: Ulrike
+    family-names: Henny-Krahmer
+    affiliation: University of Rostock
+    orcid: 'https://orcid.org/0000-0003-2852-065X'
+  - given-names: Julián C.
+    family-names: Spinelli
+    affiliation: University of Buenos Aires
+    orcid: 'https://orcid.org/0009-0003-0895-815X'
+  - given-names: Erik
+    family-names: Renz
+    affiliation: University of Rostock
+    orcid: 'https://orcid.org/0009-0005-8288-7470'
+  - given-names: Anika
+    family-names: Piotraschke
+    affiliation: University of Rostock
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.15423439
+repository-code: 'https://github.com/CANSpiNproject/dh2025'
+url: 'https://www.canspin.uni-rostock.de/en'
+abstract: >-
+  This is a repository containing the data and code for our short paper 
+  "They crossed the valley of Catamarca: A study of narrative space in novel openings" 
+  presented at DH2025 in Lisbon.
+keywords:
+  - CANSpiN
+  - SPP 2207
+  - Digital Humanities
+  - Computational Literary Studies
+  - DH2025
+license: CC-BY-4.0
+commit: ae9f3d4999ba26c6c2856841eaf2e58a9619f6b7
+version: 1.0.0
+date-released: '2025-05-15'
