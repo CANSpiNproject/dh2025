@@ -11,7 +11,7 @@ texts:
       - "(Kapitel)"
     annotations:
       cs1:
-        1: "CANSpiN-deu-20_002_1.tsv"
+        1: "CANSpiN-deu-20_002_1_shuffled.tsv"
   021:
     title: "Zwei Ansichten"
     author: "Johnson, Uwe"
@@ -20,4 +20,4 @@ texts:
       - "(Kapitel)"
     annotations:
       cs1:
-        1: "CANSpiN-deu-20_021_1.tsv"
+        1: "CANSpiN-deu-20_021_1_shuffled.tsv"
