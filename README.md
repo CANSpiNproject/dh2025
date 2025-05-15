@@ -1,7 +1,9 @@
 # dh2025
-This is a repository containing the data and code for our short paper on the novel beginning study presented at DH2025 in Lisbon.
+![version](https://img.shields.io/badge/version-1.0.0-blue)
+[![License: GPL v3](https://img.shields.io/badge/License-GPL_v3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0.html)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15423439.svg)](https://doi.org/10.5281/zenodo.15423439)
 
-(TODO: add DOI here as soon as it is available.)
+This repository contains the data and code for our short paper "They crossed the valley of Catamarca: A study of narrative space in novel openings" presented at DH2025 in Lisbon.
 
 ## Content
 ### Folders and files
@@ -18,14 +20,14 @@ This is a repository containing the data and code for our short paper on the nov
   - `get_annotation_statistics_and_visualizations.ipynb`
 
 ### Corpus overview
-It consists of the first chapters of eight german, spanish, and latin-american novels from the 19th and 20th century. The data originates from the corpora of the [European Literary Text Collection (ELTeC)](https://github.com/COST-ELTeC), the [Corpus de novelas hispanoamericanas del siglo XIX (conha19)](https://doi.org/10.5281/zenodo.4766987), and E-Books.
+It consists of the first chapters of eight german, spanish, and latin-american novels from the 19th and 20th century. The data originates from the corpora of the [European Literary Text Collection (ELTeC)](https://github.com/COST-ELTeC), the [Corpus de novelas hispanoamericanas del siglo XIX (conha19)](https://doi.org/10.5281/zenodo.4766987), the [Complete Works of Uwe Johnson project](https://www.germanistik.uni-rostock.de/en/forschung/uwe-johnson/werkausgabe/), and E-Books.
 
 | Corpus | ID | Title | Author | Year | Token | Source |
 |--------|----|-------|--------|------|-------|--------|
 | DEU19 | DEU19_001 | Weisse Sclaven oder die Leiden des Volkes | Willkomm, Ernst Adolf | 1845 | 5491 | ELTeC-deu |
 | DEU19 | DEU19_030 | Die verlorene Handschrift | Freytag, Gustav | 1864 | 7179 | ELTeC-deu |
-| DEU20 | DEU20_002 | Ansichten eines Clowns | Böll, Heinrich | 1963 | 2689 | E-Book | restricted |
-| DEU20 | DEU20_021 | Zwei Ansichten | Johnson, Uwe | 1965 | 744 | E-Book  | restricted |
+| DEU20 | DEU20_002 | Ansichten eines Clowns | Böll, Heinrich | 1963 | 2689 | E-Book: Kiepenheuer & Witsch 2009 | restricted |
+| DEU20 | DEU20_021 | Zwei Ansichten | Johnson, Uwe | 1965 | 744 | CWUJ | restricted |
 | SPA19 | SPA19_001 | El Señor de Bembibre | Gil y Carrasco, Enrique | 1855 | 1843 | ELTeC-spa |
 | SPA19 | SPA19_008 | Los templarios | Mora, Juan de Dios | 1856 | 4300 | ELTeC-spa |
 | LAT19 | LAT19_004 | El falso Inca. Cronicón de la conquista | Payró, Roberto | 1905 | 1210 | conha19 |
