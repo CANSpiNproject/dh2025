@@ -7,4 +7,4 @@
     - relations to cs1 annotations
 - optional: add script to notebook to create first event visualizations
 
-Finally: move tag `v1.0.0` to the last commit and change commit ID in `CITATION.cff` after that.
+Finally: move tag `v1.0.0` to the last commit, create Release, and change commit ID in `CITATION.cff` after that.
