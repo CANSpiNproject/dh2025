@@ -7,17 +7,17 @@ This repository contains the data and code for our short paper "They crossed the
 
 ## Content
 ### Folders and files
-- annotation data as `.tsv` files:
+- cs1 annotation data as `.tsv` files:
   - `/canspin-deu-19`
   - `/canspin-deu-20` (for legal reasons, this data from the 20th century is only available as shuffled tsv)
   - `/canspin-spa-19`
   - `/canspin-lat-19`
-- annotation data as Catma project:
+- cs1 annotation data as Catma project:
   - `/CATMA_4AA4ADC0-4C28-54F9-B6A1-5DCEFF34B90B_DH2025_CANSpiN`
-- data and visualizations derived from the annotation data:
+- data and visualizations derived from the analysis:
   - `/results`
-- notebook to create annotation statistics and visualizations already saved in `/result` folder:
-  - `get_annotation_statistics_and_visualizations.ipynb`
+- notebook to get analysis results saved in `/result` folder:
+  - `perform_analysis.ipynb`
 
 ### Corpus overview
 It consists of the first chapters of eight german, spanish, and latin-american novels from the 19th and 20th century. The data originates from the corpora of the [European Literary Text Collection (ELTeC)](https://github.com/COST-ELTeC), the [Corpus de novelas hispanoamericanas del siglo XIX (conha19)](https://doi.org/10.5281/zenodo.4766987), the [Complete Works of Uwe Johnson project](https://www.germanistik.uni-rostock.de/en/forschung/uwe-johnson/werkausgabe/), and E-Books.
@@ -41,7 +41,7 @@ The annotation system **CANSpiN.CS1** is defined in the respective [guideline](h
 ![annotation_overview](results/annotation_amounts_in_chapters.png)
 
 ## Usage
-To use the notebook `get_annotation_statistics_and_visualizations.ipynb`, install the [gitma-canspin package](https://github.com/CANSpiNproject/gitma-canspin/tree/v1.6.2) following the instructions of its README.
+To use the notebook `perform_analysis.ipynb`, install the [gitma-canspin package](https://github.com/CANSpiNproject/gitma-canspin/tree/v1.6.2) following the instructions of its README.
 
 ## Licenses
 The original texts are in the public domain, with the exception of the German-language novels from the 20th century, which are protected by copyright.
