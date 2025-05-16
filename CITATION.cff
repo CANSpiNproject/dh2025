@@ -31,6 +31,7 @@ authors:
   - given-names: Anika
     family-names: Piotraschke
     affiliation: University of Rostock
+    orcid: 'https://orcid.org/0009-0004-3076-5781'
 identifiers:
   - type: doi
     value: 10.5281/zenodo.15423439
