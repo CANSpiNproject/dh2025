@@ -14,6 +14,8 @@ This repository contains the data and code for our short paper "They crossed the
   - `/canspin-lat-19`
 - cs1 annotation data as Catma project:
   - `/CATMA_4AA4ADC0-4C28-54F9-B6A1-5DCEFF34B90B_DH2025_CANSpiN`
+- data and documentation of the novel beginning analysis
+  - `/novel_beginning_analysis`
 - data and visualizations derived from the analysis:
   - `/results`
 - notebook to get analysis results saved in `/result` folder:
