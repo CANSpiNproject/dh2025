@@ -39,7 +39,7 @@ It consists of the first chapters of eight german, spanish, and latin-american n
 
 ### Annotation overview
 #### Classes
-The annotation system **CANSpiN.CS1** is defined in the respective [guideline](https://doi.org/10.5281/zenodo.10437030).
+The annotation system **CANSpiN.CS1** (v1.1.0) is defined in the respective [guideline](https://doi.org/10.5281/zenodo.10437030).
 
 #### Amount
 ![annotation_overview](results/visualizations/annotation_amounts_in_chapters.png)
