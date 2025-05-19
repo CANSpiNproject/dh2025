@@ -24,7 +24,7 @@ This repository contains the data and code for our short paper "They crossed the
   - `perform_analysis.ipynb`
 
 ### Corpus overview
-It consists of the first chapters of eight german, spanish, and latin-american novels from the 19th and 20th century. The data originates from the corpora of the [European Literary Text Collection (ELTeC)](https://github.com/COST-ELTeC), the [Corpus de novelas hispanoamericanas del siglo XIX (conha19)](https://doi.org/10.5281/zenodo.4766987), the [Complete Works of Uwe Johnson project](https://www.germanistik.uni-rostock.de/en/forschung/uwe-johnson/werkausgabe/), and E-Books.
+It consists of the first chapters of eight german, spanish, and latin-american novels from the 19th and 20th century. The data originates from the corpora of the [European Literary Text Collection (ELTeC)](https://github.com/COST-ELTeC), the [Corpus de novelas hispanoamericanas del siglo XIX (conha19)](https://doi.org/10.5281/zenodo.4766987), the [Complete Works of Uwe Johnson project (CWUJ)](https://www.germanistik.uni-rostock.de/en/forschung/uwe-johnson/werkausgabe/), and E-Books.
 
 | Corpus | ID | Title | Author | Year | Token | Source |
 |--------|----|-------|--------|------|-------|--------|
