@@ -18,6 +18,8 @@ This repository contains the data and code for our short paper "They crossed the
   - `/novel_beginning_analysis`
 - data and visualizations derived from the analysis:
   - `/results`
+- bibliography of the short paper:
+  - `bibliography.bib`
 - notebook to get analysis results saved in `/result` folder:
   - `perform_analysis.ipynb`
 
