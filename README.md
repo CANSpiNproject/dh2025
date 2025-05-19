@@ -46,6 +46,8 @@ The annotation system **CANSpiN.CS1** is defined in the respective [guideline](h
 To use the notebook `perform_analysis.ipynb`, install the [gitma-canspin package](https://github.com/CANSpiNproject/gitma-canspin/tree/v1.6.2) following the instructions of its README.
 
 ## Licenses
-The original texts are in the public domain, with the exception of the German-language novels from the 20th century, which are protected by copyright.
+The original texts are in the public domain, with the exception of the German-language novels from the 20th century, which are protected by copyright. Accordingly, the latter data is published here in a derived format as shuffled `.tsv` only.
 
 We publish the annotations under Creative Commons Attribution International 4.0 licence (CC-BY, https://creativecommons.org/licenses/by/4.0/), the Jupyter Notebook under GNU General Public License 3 (https://www.gnu.org/licenses/gpl-3.0.html).
+
+The [Aspekta](https://github.com/ivodolenc/aspekta) font used for the creation of visualizations with the `Pillow` package in the notebook is licensed under the [Open Font License 1.1](https://openfontlicense.org/open-font-license-official-text/).
