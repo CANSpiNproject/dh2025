@@ -42,7 +42,7 @@ It consists of the first chapters of eight german, spanish, and latin-american n
 The annotation system **CANSpiN.CS1** (v1.1.0) is defined in the respective [guideline](https://doi.org/10.5281/zenodo.10437030).
 
 #### Amount
-![annotation_overview](results/visualizations/annotation_amounts_in_chapters.png)
+![annotation_overview](results/visualizations/cs1_annotation_amounts__all_tokens.png)
 
 ## Usage
 To use the notebook `perform_analysis.ipynb`, install the [gitma-canspin package](https://github.com/CANSpiNproject/gitma-canspin/tree/v1.6.3) following the instructions of its README.
