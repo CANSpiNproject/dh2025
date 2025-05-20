@@ -45,7 +45,7 @@ The annotation system **CANSpiN.CS1** (v1.1.0) is defined in the respective [gui
 ![annotation_overview](results/visualizations/annotation_amounts_in_chapters.png)
 
 ## Usage
-To use the notebook `perform_analysis.ipynb`, install the [gitma-canspin package](https://github.com/CANSpiNproject/gitma-canspin/tree/v1.6.2) following the instructions of its README.
+To use the notebook `perform_analysis.ipynb`, install the [gitma-canspin package](https://github.com/CANSpiNproject/gitma-canspin/tree/v1.6.3) following the instructions of its README.
 
 ## Licenses
 The original texts are in the public domain, with the exception of the German-language novels from the 20th century, which are protected by copyright. Accordingly, the latter data is published here in a derived format as shuffled `.tsv` only.
