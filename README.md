@@ -45,7 +45,7 @@ The annotation system **CANSpiN.CS1** (v1.1.0) is defined in the respective [gui
 ![annotation_overview](results/visualizations/cs1_annotation_amounts__all_tokens.png)
 
 ## Usage
-To use the notebook `perform_analysis.ipynb`, install the [gitma-canspin package (v1.6.4)](https://github.com/CANSpiNproject/gitma-canspin/tree/v1.6.4) following the instructions of its README. The notebook enables the user to reproduce the analysis steps we have performed. It is not necessary to execute it, if you wish to see the analysis results only. In this case, see our paper and the content of the `/results` folder.
+To use the notebook `perform_analysis.ipynb`, install the [gitma-canspin package (v1.6.5)](https://github.com/CANSpiNproject/gitma-canspin/tree/v1.6.5) following the instructions of its README. The notebook enables the user to reproduce the analysis steps we have performed. It is not necessary to execute it, if you wish to see the analysis results only. In this case, see our paper and the content of the `/results` folder.
 
 ## Licenses
 The original texts are in the public domain, with the exception of the German-language novels from the 20th century, which are protected by copyright. Accordingly, the latter data is published here in a derived format as shuffled `.tsv` only.
