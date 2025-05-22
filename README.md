@@ -18,6 +18,15 @@ This repository contains the data and code for our short paper "They crossed the
   - `/novel_beginning_analysis`
 - data and visualizations derived from the analysis:
   - `/results`
+    - `annotation_distribution__<chapter_id>.html.json`: contains the data basis for the graphics `annotation_distribution__<chapter_id>.html/.png`
+    - `annotation_statistics__first_1000_token.json`: contains the data basis for the graphic `cs1_annotation_amounts__1000_tokens.html/.png`
+    - `annotation_statistics__whole_chapters.json`: documents the relative and absolute amount of annotations of the texts and the words that were annotated most frequently per category
+    - `/visualizations`
+      - `annotation_distribution__<chapter_id>.html/.png`: shows the distribution of annotations over a chapter in text units of 200 (spa-19 and lat-19) and 300 tokens (deu-19 and deu-20)
+      - `cs1_annotation_amounts__1000_tokens.html/.png`: shows the percentage of annotations in the first 1000 tokens per text
+      - `cs1_annotation_amounts__all_tokens.html/.png`: shows the percentage of annotations in the first chapter of every text
+      - `first_character_event_overview.png`: shows when the first character event occurs in reference to the middle of the first chapter in all texts
+      - `first-character-event-cs1-relation__<chapter_id>.png`: combines the distribution of the annotations with the first character event over a chapter
 - bibliography of the short paper:
   - `bibliography.bib`
 - notebook to recreate analysis results that are already saved in the `/results` folder:
