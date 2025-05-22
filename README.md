@@ -14,19 +14,21 @@ This repository contains the data and code for our short paper "They crossed the
   - `/canspin-lat-19`
 - cs1 annotation data as Catma project:
   - `/CATMA_4AA4ADC0-4C28-54F9-B6A1-5DCEFF34B90B_DH2025_CANSpiN`
-- data and documentation of the novel beginning analysis
+- data and documentation of the novel beginning analysis:
   - `/novel_beginning_analysis`
+    - `categories.md`: documents our definitions of the novel beginning analysis categories and their application to the texts
+    - `categorization.tsv`: contains the novel beginning analysis data
 - data and visualizations derived from the analysis:
   - `/results`
-    - `annotation_distribution__<chapter_id>.html.json`: contains the data basis for the graphics `annotation_distribution__<chapter_id>.html/.png`
-    - `annotation_statistics__first_1000_token.json`: contains the data basis for the graphic `cs1_annotation_amounts__1000_tokens.html/.png`
-    - `annotation_statistics__whole_chapters.json`: documents the relative and absolute amount of annotations of the texts and the words that were annotated most frequently per category
+    - `annotation_distribution__<chapter_id>.html.json`: contains data on the distribution of cs1 annotations over a chapter in text units of 200 (spa-19 and lat-19) and 300 tokens (deu-19 and deu-20)
+    - `annotation_statistics__first_1000_token.json`: documents the relative and absolute cs1 annotations amounts and most frequent token per annotation class for the first 1000 token of the first chapters of all texts
+    - `annotation_statistics__whole_chapters.json`: documents the relative and absolute cs1 annotations amounts and most frequent token per annotation class for the whole first chapters of all texts
     - `/visualizations`
-      - `annotation_distribution__<chapter_id>.html/.png`: shows the distribution of annotations over a chapter in text units of 200 (spa-19 and lat-19) and 300 tokens (deu-19 and deu-20)
-      - `cs1_annotation_amounts__1000_tokens.html/.png`: shows the percentage of annotations in the first 1000 tokens per text
-      - `cs1_annotation_amounts__all_tokens.html/.png`: shows the percentage of annotations in the first chapter of every text
-      - `first_character_event_overview.png`: shows when the first character event occurs in reference to the middle of the first chapter in all texts
-      - `first-character-event-cs1-relation__<chapter_id>.png`: combines the distribution of the annotations with the first character event over a chapter
+      - `annotation_distribution__<chapter_id>.html/.png`: visualizes the distribution data of cs1 annotations for each chapter
+      - `cs1_annotation_amounts__1000_tokens.html/.png`: shows the proportion of annotation amount to the token amount in the first 1000 tokens of each text
+      - `cs1_annotation_amounts__all_tokens.html/.png`: shows the proportion of annotation amount to the token amount in the whole first chapter of each text
+      - `first_character_event_overview.png`: shows the token position the first character event occurs in each text
+      - `first-character-event-cs1-relation__<chapter_id>.png`: combines the data on thr distribution of cs1 annotations with the first character event data of each chapter
 - bibliography of the short paper:
   - `bibliography.bib`
 - notebook to recreate analysis results that are already saved in the `/results` folder:
