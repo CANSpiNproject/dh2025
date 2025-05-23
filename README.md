@@ -28,7 +28,7 @@ This repository contains the data and code for our short paper "They crossed the
       - `cs1_annotation_amounts__1000_tokens.html/.png`: shows the proportion of annotation amount to the token amount in the first 1000 tokens of each text
       - `cs1_annotation_amounts__all_tokens.html/.png`: shows the proportion of annotation amount to the token amount in the whole first chapter of each text
       - `first_character_event_overview.png`: shows the token position the first character event occurs in each text
-      - `first-character-event-cs1-relation__<chapter_id>.png`: combines the data on thr distribution of cs1 annotations with the first character event data of each chapter
+      - `first-character-event-cs1-relation__<chapter_id>.png`: combines the data on cs1 annotation distribution of each chapter with the first character event data of each chapter
 - bibliography of the short paper:
   - `bibliography.bib`
 - notebook to recreate analysis results that are already saved in the `/results` folder:
