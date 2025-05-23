@@ -3,7 +3,7 @@
 [![License: GPL v3](https://img.shields.io/badge/License-GPL_v3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0.html)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15423439.svg)](https://doi.org/10.5281/zenodo.15423439)
 
-This repository contains the data and code for our short paper "They crossed the valley of Catamarca: A study of narrative space in novel openings" presented at DH2025 in Lisbon.
+This repository contains the data and code for our short paper "They crossed the valley of Catamarca: A study of narrative space in novel openings" presented at [DH2025 in Lisbon](https://dh2025.adho.org).
 
 ## Content
 ### Folders and files
