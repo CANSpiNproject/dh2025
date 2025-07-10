@@ -1,0 +1,125 @@
+{
+  "Text_Unit": {
+    "0": 0,
+    "1": 1,
+    "2": 2
+  },
+  "Place-Container": {
+    "0": 10,
+    "1": 15,
+    "2": 12
+  },
+  "Place-Container-MC": {
+    "0": 3,
+    "1": 1,
+    "2": 0
+  },
+  "Place-Object": {
+    "0": 0,
+    "1": 1,
+    "2": 1
+  },
+  "Place-Object-MC": {
+    "0": 0,
+    "1": 0,
+    "2": 2
+  },
+  "Place-Abstract": {
+    "0": 0,
+    "1": 0,
+    "2": 0
+  },
+  "Place-Abstract-MC": {
+    "0": 0,
+    "1": 0,
+    "2": 0
+  },
+  "Place-ALT": {
+    "0": 2,
+    "1": 0,
+    "2": 0
+  },
+  "Movement-Subject": {
+    "0": 15,
+    "1": 8,
+    "2": 5
+  },
+  "Movement-Object": {
+    "0": 2,
+    "1": 1,
+    "2": 0
+  },
+  "Movement-Sound": {
+    "0": 0,
+    "1": 1,
+    "2": 0
+  },
+  "Movement-Light": {
+    "0": 3,
+    "1": 0,
+    "2": 1
+  },
+  "Movement-Smell": {
+    "0": 0,
+    "1": 0,
+    "2": 0
+  },
+  "Movement-ALT": {
+    "0": 9,
+    "1": 9,
+    "2": 1
+  },
+  "Direction": {
+    "0": 7,
+    "1": 5,
+    "2": 4
+  },
+  "Direction-ALT": {
+    "0": 2,
+    "1": 2,
+    "2": 0
+  },
+  "Positioning": {
+    "0": 8,
+    "1": 7,
+    "2": 7
+  },
+  "Positioning-ALT": {
+    "0": 0,
+    "1": 0,
+    "2": 0
+  },
+  "Dimensioning-Distance": {
+    "0": 0,
+    "1": 1,
+    "2": 0
+  },
+  "Dimensioning-Size": {
+    "0": 1,
+    "1": 1,
+    "2": 3
+  },
+  "Dimensioning-Amount": {
+    "0": 2,
+    "1": 0,
+    "2": 0
+  },
+  "Dimensioning-ALT": {
+    "0": 1,
+    "1": 1,
+    "2": 0
+  },
+  "METADATA": {
+    "separation_unit_type": "token",
+    "separation_unit_amount": 300,
+    "output_type": "html",
+    "width": 1400,
+    "height": 800,
+    "font_size": 18,
+    "title": false,
+    "svg_render_engine": "auto",
+    "category_and_class_system_name": "CS1 v1.1.0 deu",
+    "translate_classes_to_english": true,
+    "save_data_to_json": true
+  }
+}
